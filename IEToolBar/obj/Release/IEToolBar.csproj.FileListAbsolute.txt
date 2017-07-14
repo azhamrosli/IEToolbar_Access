@@ -1,0 +1,41 @@
+A:\Code\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.dll
+A:\Code\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.pdb
+A:\Code\IEToolbarE-Filing\IEToolBar\bin\Release\Microsoft.mshtml.dll
+A:\Code\IEToolbarE-Filing\IEToolBar\bin\Release\Interop.SHDocVw.dll
+A:\Code\IEToolbarE-Filing\IEToolBar\obj\Release\Interop.SHDocVw.dll
+A:\Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+A:\Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+A:\Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+A:\Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+A:\Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+A:\Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+A:\Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+A:\Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+A:\Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+A:\Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+A:\Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+A:\Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.dll
+A:\Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Windows\assembly\IEToolBar.dll
+C:\Windows\assembly\IEToolBar.pdb
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.dll
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.pdb
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\bin\Release\Microsoft.mshtml.dll
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\bin\Release\Interop.SHDocVw.dll
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\obj\Release\Interop.SHDocVw.dll
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmHK6.resources
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.dll
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.pdb
+A:\Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmHK6.resources
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmShellList.resources

@@ -1,0 +1,134 @@
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.csprojResolveAssemblyReference.cache
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\obj\Debug\Interop.SHDocVw.dll
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.csproj.ResolveComReference.cache
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmTaxAgentLogIn.resources
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmShellList.resources
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmHK6.resources
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmHK3.resources
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmMaklumatAhliKongsi.resources
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmRKTRKS.resources
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+D:\Window XP Shared\Code\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.dll
+D:\Share Folder\Code\IEToolbarE-Filing\IEToolBar\obj\Debug\Interop.SHDocVw.dll
+D:\Share Folder\Code\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.csproj.ResolveComReference.cache
+D:\Share Folder\Code\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+D:\Share Folder\Code\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmTaxAgentLogIn.resources
+D:\Share Folder\Code\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+D:\Share Folder\Code\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+D:\Share Folder\Code\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmShellList.resources
+D:\Share Folder\Code\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmHK6.resources
+D:\Share Folder\Code\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmHK3.resources
+D:\Share Folder\Code\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmMaklumatAhliKongsi.resources
+D:\Share Folder\Code\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmRKTRKS.resources
+D:\Share Folder\Code\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+D:\Share Folder\Code\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+D:\Share Folder\Code\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+D:\Share Folder\Code\IEToolbarE-Filing\IEToolBar\bin\Debug\IEToolBar.dll
+D:\Share Folder\Code\IEToolbarE-Filing\IEToolBar\bin\Debug\IEToolBar.pdb
+D:\Share Folder\Code\IEToolbarE-Filing\IEToolBar\bin\Debug\BandObjectsLib.dll
+D:\Share Folder\Code\IEToolbarE-Filing\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+D:\Share Folder\Code\IEToolbarE-Filing\IEToolBar\bin\Debug\Interop.SHDocVw.dll
+D:\Share Folder\Code\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.dll
+D:\Share Folder\Code\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.pdb
+D:\Share Folder\Code\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.csprojResolveAssemblyReference.cache
+D:\Share Folder\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\bin\Debug\IEToolBar.dll
+D:\Share Folder\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\bin\Debug\IEToolBar.pdb
+D:\Share Folder\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\bin\Debug\BandObjectsLib.dll
+D:\Share Folder\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+D:\Share Folder\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\bin\Debug\Interop.SHDocVw.dll
+D:\Share Folder\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.csprojResolveAssemblyReference.cache
+D:\Share Folder\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\obj\Debug\Interop.SHDocVw.dll
+D:\Share Folder\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.csproj.ResolveComReference.cache
+D:\Share Folder\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+D:\Share Folder\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmTaxAgentLogIn.resources
+D:\Share Folder\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+D:\Share Folder\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+D:\Share Folder\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmShellList.resources
+D:\Share Folder\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmHK6.resources
+D:\Share Folder\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmHK3.resources
+D:\Share Folder\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmMaklumatAhliKongsi.resources
+D:\Share Folder\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmRKTRKS.resources
+D:\Share Folder\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+D:\Share Folder\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+D:\Share Folder\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+D:\Share Folder\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.dll
+D:\Share Folder\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.pdb
+C:\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.csprojResolveAssemblyReference.cache
+C:\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+C:\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmTaxAgentLogIn.resources
+C:\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+C:\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+C:\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmShellList.resources
+C:\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmHK6.resources
+C:\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmHK3.resources
+C:\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmRKTRKS.resources
+C:\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+C:\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+C:\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+C:\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.dll
+C:\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.pdb
+C:\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\bin\Debug\IEToolBar.dll
+C:\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\bin\Debug\IEToolBar.pdb
+C:\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\bin\Debug\BandObjectsLib.dll
+C:\YGL TaxOffice Malaysia\IEToolbarE-Filing\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Azham\Desktop\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+C:\Users\Azham\Desktop\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmTaxAgentLogIn.resources
+C:\Users\Azham\Desktop\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+C:\Users\Azham\Desktop\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+C:\Users\Azham\Desktop\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmShellList.resources
+C:\Users\Azham\Desktop\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmHK6.resources
+C:\Users\Azham\Desktop\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmHK3.resources
+C:\Users\Azham\Desktop\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Users\Azham\Desktop\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmRKTRKS.resources
+C:\Users\Azham\Desktop\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+C:\Users\Azham\Desktop\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+C:\Users\Azham\Desktop\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+C:\Users\Azham\Desktop\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.dll
+C:\Users\Azham\Desktop\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.pdb
+C:\Users\Azham\Desktop\IEToolbarE-Filing\IEToolBar\bin\Debug\IEToolBar.dll
+C:\Users\Azham\Desktop\IEToolbarE-Filing\IEToolBar\bin\Debug\IEToolBar.pdb
+C:\Users\Azham\Desktop\IEToolbarE-Filing\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Azham\Desktop\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.csprojResolveAssemblyReference.cache
+D:\Share Folder\TAXCOM CODE VBNET\IEToolbarE-Filing Access\IEToolBar\bin\Debug\IEToolBar.dll
+D:\Share Folder\TAXCOM CODE VBNET\IEToolbarE-Filing Access\IEToolBar\bin\Debug\IEToolBar.pdb
+D:\Share Folder\TAXCOM CODE VBNET\IEToolbarE-Filing Access\IEToolBar\bin\Debug\BandObjectsLib.dll
+D:\Share Folder\TAXCOM CODE VBNET\IEToolbarE-Filing Access\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+D:\Share Folder\TAXCOM CODE VBNET\IEToolbarE-Filing Access\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+D:\Share Folder\TAXCOM CODE VBNET\IEToolbarE-Filing Access\IEToolBar\obj\Debug\IEToolBar.frmTaxAgentLogIn.resources
+D:\Share Folder\TAXCOM CODE VBNET\IEToolbarE-Filing Access\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+D:\Share Folder\TAXCOM CODE VBNET\IEToolbarE-Filing Access\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+D:\Share Folder\TAXCOM CODE VBNET\IEToolbarE-Filing Access\IEToolBar\obj\Debug\IEToolBar.frmShellList.resources
+D:\Share Folder\TAXCOM CODE VBNET\IEToolbarE-Filing Access\IEToolBar\obj\Debug\IEToolBar.frmHK6.resources
+D:\Share Folder\TAXCOM CODE VBNET\IEToolbarE-Filing Access\IEToolBar\obj\Debug\IEToolBar.frmHK3.resources
+D:\Share Folder\TAXCOM CODE VBNET\IEToolbarE-Filing Access\IEToolBar\obj\Debug\IEToolBar.frmMaklumatAhliKongsi.resources
+D:\Share Folder\TAXCOM CODE VBNET\IEToolbarE-Filing Access\IEToolBar\obj\Debug\IEToolBar.frmRKTRKS.resources
+D:\Share Folder\TAXCOM CODE VBNET\IEToolbarE-Filing Access\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+D:\Share Folder\TAXCOM CODE VBNET\IEToolbarE-Filing Access\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+D:\Share Folder\TAXCOM CODE VBNET\IEToolbarE-Filing Access\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+D:\Share Folder\TAXCOM CODE VBNET\IEToolbarE-Filing Access\IEToolBar\obj\Debug\IEToolBar.dll
+D:\Share Folder\TAXCOM CODE VBNET\IEToolbarE-Filing Access\IEToolBar\obj\Debug\IEToolBar.pdb
+C:\Users\Azham\Documents\GitHub\IEToolbar_Access\IEToolBar\bin\Debug\IEToolBar.dll
+C:\Users\Azham\Documents\GitHub\IEToolbar_Access\IEToolBar\bin\Debug\IEToolBar.pdb
+C:\Users\Azham\Documents\GitHub\IEToolbar_Access\IEToolBar\bin\Debug\BandObjectsLib.dll
+C:\Users\Azham\Documents\GitHub\IEToolbar_Access\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Azham\Documents\GitHub\IEToolbar_Access\IEToolBar\obj\Debug\IEToolBar.csprojResolveAssemblyReference.cache
+C:\Users\Azham\Documents\GitHub\IEToolbar_Access\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+C:\Users\Azham\Documents\GitHub\IEToolbar_Access\IEToolBar\obj\Debug\IEToolBar.frmTaxAgentLogIn.resources
+C:\Users\Azham\Documents\GitHub\IEToolbar_Access\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+C:\Users\Azham\Documents\GitHub\IEToolbar_Access\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+C:\Users\Azham\Documents\GitHub\IEToolbar_Access\IEToolBar\obj\Debug\IEToolBar.frmShellList.resources
+C:\Users\Azham\Documents\GitHub\IEToolbar_Access\IEToolBar\obj\Debug\IEToolBar.frmHK6.resources
+C:\Users\Azham\Documents\GitHub\IEToolbar_Access\IEToolBar\obj\Debug\IEToolBar.frmHK3.resources
+C:\Users\Azham\Documents\GitHub\IEToolbar_Access\IEToolBar\obj\Debug\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Users\Azham\Documents\GitHub\IEToolbar_Access\IEToolBar\obj\Debug\IEToolBar.frmRKTRKS.resources
+C:\Users\Azham\Documents\GitHub\IEToolbar_Access\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+C:\Users\Azham\Documents\GitHub\IEToolbar_Access\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+C:\Users\Azham\Documents\GitHub\IEToolbar_Access\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+C:\Users\Azham\Documents\GitHub\IEToolbar_Access\IEToolBar\obj\Debug\IEToolBar.dll
+C:\Users\Azham\Documents\GitHub\IEToolbar_Access\IEToolBar\obj\Debug\IEToolBar.pdb

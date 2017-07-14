@@ -1,0 +1,670 @@
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\BandObjectsLib\bin\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\BandObjectsLib\bin\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\BandObjectsLib\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\BandObjectsLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\BandObjectsLib\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\BandObjectsLib\obj\Debug\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\BandObjectsLib\obj\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\BandObjectsLib\obj\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing\BandObjectsLib\bin\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing\BandObjectsLib\bin\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing\BandObjectsLib\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing\BandObjectsLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing\BandObjectsLib\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing\BandObjectsLib\obj\Debug\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing\BandObjectsLib\obj\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing\BandObjectsLib\obj\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing v2.1\IEToolbarE-Filing\IEToolbarE-Filing\BandObjectsLib\bin\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing v2.1\IEToolbarE-Filing\IEToolbarE-Filing\BandObjectsLib\bin\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing v2.1\IEToolbarE-Filing\IEToolbarE-Filing\BandObjectsLib\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing v2.1\IEToolbarE-Filing\IEToolbarE-Filing\BandObjectsLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing v2.1\IEToolbarE-Filing\IEToolbarE-Filing\BandObjectsLib\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing v2.1\IEToolbarE-Filing\IEToolbarE-Filing\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing v2.1\IEToolbarE-Filing\IEToolbarE-Filing\BandObjectsLib\obj\Debug\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing v2.1\IEToolbarE-Filing\IEToolbarE-Filing\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing v2.1\IEToolbarE-Filing\IEToolbarE-Filing\BandObjectsLib\obj\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing v2.1\IEToolbarE-Filing\IEToolbarE-Filing\BandObjectsLib\obj\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0\BandObjectsLib\bin\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0\BandObjectsLib\bin\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0\BandObjectsLib\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0\BandObjectsLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0\BandObjectsLib\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0\BandObjectsLib\obj\Debug\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0\BandObjectsLib\obj\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0\BandObjectsLib\obj\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0 Testing\BandObjectsLib\bin\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0 Testing\BandObjectsLib\bin\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0 Testing\BandObjectsLib\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0 Testing\BandObjectsLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0 Testing\BandObjectsLib\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0 Testing\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0 Testing\BandObjectsLib\obj\Debug\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0 Testing\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0 Testing\BandObjectsLib\obj\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0 Testing\BandObjectsLib\obj\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 3.0 Testing\BandObjectsLib\bin\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 3.0 Testing\BandObjectsLib\bin\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 3.0 Testing\BandObjectsLib\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 3.0 Testing\BandObjectsLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 3.0 Testing\BandObjectsLib\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 3.0 Testing\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 3.0 Testing\BandObjectsLib\obj\Debug\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 3.0 Testing\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 3.0 Testing\BandObjectsLib\obj\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 3.0 Testing\BandObjectsLib\obj\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Testing\BandObjectsLib\bin\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Testing\BandObjectsLib\bin\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Testing\BandObjectsLib\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Testing\BandObjectsLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Testing\BandObjectsLib\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Testing\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Testing\BandObjectsLib\obj\Debug\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Testing\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Testing\BandObjectsLib\obj\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Testing\BandObjectsLib\obj\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 4.0 Internal\BandObjectsLib\bin\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 4.0 Internal\BandObjectsLib\bin\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 4.0 Internal\BandObjectsLib\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 4.0 Internal\BandObjectsLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 4.0 Internal\BandObjectsLib\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 4.0 Internal\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 4.0 Internal\BandObjectsLib\obj\Debug\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 4.0 Internal\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 4.0 Internal\BandObjectsLib\obj\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 4.0 Internal\BandObjectsLib\obj\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Internal\BandObjectsLib\bin\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Internal\BandObjectsLib\bin\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Internal\BandObjectsLib\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Internal\BandObjectsLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Internal\BandObjectsLib\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Internal\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Internal\BandObjectsLib\obj\Debug\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Internal\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Internal\BandObjectsLib\obj\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Internal\BandObjectsLib\obj\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\My Documents\CS\IE Toolbar E-Filing\IEToolbarE-Filing 5.0 Internal\BandObjectsLib\bin\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\My Documents\CS\IE Toolbar E-Filing\IEToolbarE-Filing 5.0 Internal\BandObjectsLib\bin\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\My Documents\CS\IE Toolbar E-Filing\IEToolbarE-Filing 5.0 Internal\BandObjectsLib\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\My Documents\CS\IE Toolbar E-Filing\IEToolbarE-Filing 5.0 Internal\BandObjectsLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\CS\IE Toolbar E-Filing\IEToolbarE-Filing 5.0 Internal\BandObjectsLib\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\My Documents\CS\IE Toolbar E-Filing\IEToolbarE-Filing 5.0 Internal\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\My Documents\CS\IE Toolbar E-Filing\IEToolbarE-Filing 5.0 Internal\BandObjectsLib\obj\Debug\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\My Documents\CS\IE Toolbar E-Filing\IEToolbarE-Filing 5.0 Internal\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\CS\IE Toolbar E-Filing\IEToolbarE-Filing 5.0 Internal\BandObjectsLib\obj\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\My Documents\CS\IE Toolbar E-Filing\IEToolbarE-Filing 5.0 Internal\BandObjectsLib\obj\Debug\BandObjectsLib.pdb
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\BandObjectsLib\bin\Release\BandObjectsLib.dll
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\BandObjectsLib\obj\Release\BandObjectsLib.dll
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\BandObjectsLib\bin\Debug\BandObjectsLib.dll
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\BandObjectsLib\bin\Debug\BandObjectsLib.pdb
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\BandObjectsLib\bin\Debug\Interop.SHDocVw.dll
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\BandObjectsLib\obj\Debug\ResolveAssemblyReference.cache
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\BandObjectsLib\obj\Debug\Interop.SHDocVw.dll
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.ResolveComReference.cache
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\BandObjectsLib\obj\Debug\BandObjectsLib.BandObject.resources
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.GenerateResource.Cache
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\BandObjectsLib\obj\Debug\BandObjectsLib.dll
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\BandObjectsLib\obj\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.1\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.1\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.1\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.1\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.1\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.1\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.1\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.1\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.1\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.1\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.3\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.3\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.3\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.3\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.3\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.3\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.3\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.3\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.3\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.3\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.5\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.5\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.5\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.5\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.5\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.5\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.5\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.5\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.5\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.5\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\BandObjectsLib\bin\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\BandObjectsLib\bin\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\BandObjectsLib\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\BandObjectsLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\BandObjectsLib\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\BandObjectsLib\obj\Debug\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\BandObjectsLib\obj\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\BandObjectsLib\obj\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.8\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.8\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.8\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.8\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.8\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.8\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.8\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.8\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.8\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.8\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.9 (CSNGOH)\BandObjectsLib\bin\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.9 (CSNGOH)\BandObjectsLib\bin\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.9 (CSNGOH)\BandObjectsLib\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.9 (CSNGOH)\BandObjectsLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.9 (CSNGOH)\BandObjectsLib\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.9 (CSNGOH)\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.9 (CSNGOH)\BandObjectsLib\obj\Debug\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.9 (CSNGOH)\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.9 (CSNGOH)\BandObjectsLib\obj\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.9 (CSNGOH)\BandObjectsLib\obj\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\BandObjectsLib\bin\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\BandObjectsLib\bin\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\BandObjectsLib\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\BandObjectsLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\BandObjectsLib\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\BandObjectsLib\obj\Debug\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\BandObjectsLib\obj\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\BandObjectsLib\obj\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\BandObjectsLib\bin\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\BandObjectsLib\bin\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\BandObjectsLib\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\BandObjectsLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\BandObjectsLib\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\BandObjectsLib\obj\Debug\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\BandObjectsLib\obj\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\BandObjectsLib\obj\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\BandObjectsLib\bin\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\BandObjectsLib\bin\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\BandObjectsLib\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\BandObjectsLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\BandObjectsLib\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\BandObjectsLib\obj\Debug\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\BandObjectsLib\obj\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\BandObjectsLib\obj\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.3\BandObjectsLib\bin\Debug\BandObjectsLib.dll
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.3\BandObjectsLib\bin\Debug\BandObjectsLib.pdb
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.3\BandObjectsLib\bin\Debug\Interop.SHDocVw.dll
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.3\BandObjectsLib\obj\Debug\ResolveAssemblyReference.cache
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.3\BandObjectsLib\obj\Debug\Interop.SHDocVw.dll
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.3\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.ResolveComReference.cache
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.3\BandObjectsLib\obj\Debug\BandObjectsLib.BandObject.resources
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.3\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.GenerateResource.Cache
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.3\BandObjectsLib\obj\Debug\BandObjectsLib.dll
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.3\BandObjectsLib\obj\Debug\BandObjectsLib.pdb
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.4\BandObjectsLib\bin\Debug\BandObjectsLib.dll
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.4\BandObjectsLib\bin\Debug\BandObjectsLib.pdb
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.4\BandObjectsLib\bin\Debug\Interop.SHDocVw.dll
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.4\BandObjectsLib\obj\Debug\ResolveAssemblyReference.cache
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.4\BandObjectsLib\obj\Debug\Interop.SHDocVw.dll
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.4\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.ResolveComReference.cache
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.4\BandObjectsLib\obj\Debug\BandObjectsLib.BandObject.resources
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.4\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.GenerateResource.Cache
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.4\BandObjectsLib\obj\Debug\BandObjectsLib.dll
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.4\BandObjectsLib\obj\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.6\BandObjectsLib\bin\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.6\BandObjectsLib\bin\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.6\BandObjectsLib\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.6\BandObjectsLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.6\BandObjectsLib\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.6\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.6\BandObjectsLib\obj\Debug\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.6\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.6\BandObjectsLib\obj\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.6\BandObjectsLib\obj\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\Project\IEToolbarE-FilingB Release 0.7\BandObjectsLib\bin\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\Project\IEToolbarE-FilingB Release 0.7\BandObjectsLib\bin\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\Project\IEToolbarE-FilingB Release 0.7\BandObjectsLib\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Project\IEToolbarE-FilingB Release 0.7\BandObjectsLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Project\IEToolbarE-FilingB Release 0.7\BandObjectsLib\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Project\IEToolbarE-FilingB Release 0.7\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Project\IEToolbarE-FilingB Release 0.7\BandObjectsLib\obj\Debug\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\Project\IEToolbarE-FilingB Release 0.7\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Project\IEToolbarE-FilingB Release 0.7\BandObjectsLib\obj\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\Project\IEToolbarE-FilingB Release 0.7\BandObjectsLib\obj\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.8\BandObjectsLib\bin\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.8\BandObjectsLib\bin\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.8\BandObjectsLib\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.8\BandObjectsLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.8\BandObjectsLib\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.8\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.8\BandObjectsLib\obj\Debug\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.8\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.8\BandObjectsLib\obj\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.8\BandObjectsLib\obj\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.9\BandObjectsLib\bin\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.9\BandObjectsLib\bin\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.9\BandObjectsLib\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.9\BandObjectsLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.9\BandObjectsLib\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.9\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.9\BandObjectsLib\obj\Debug\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.9\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.9\BandObjectsLib\obj\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.9\BandObjectsLib\obj\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.91\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.91\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.91\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.91\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.91\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.91\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.91\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.91\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.91\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.91\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 5.0\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 5.0\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 5.0\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 5.0\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 5.0\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 5.0\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 5.0\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 5.0\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 5.0\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 5.0\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 6.0\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 6.0\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 6.0\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 6.0\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 6.0\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 6.0\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 6.0\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 6.0\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 6.0\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 6.0\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.0\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.0\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.0\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.0\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.0\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.0\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.0\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.0\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.0\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.0\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.1\BandObjectsLib\bin\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.1\BandObjectsLib\bin\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.1\BandObjectsLib\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.1\BandObjectsLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.1\BandObjectsLib\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.1\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.1\BandObjectsLib\obj\Debug\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.1\BandObjectsLib\obj\Debug\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.1\BandObjectsLib\obj\Debug\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.1\BandObjectsLib\obj\Debug\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.2\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.2\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.2\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.2\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.2\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.2\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.2\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.2\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.2\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.2\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 9.0\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 9.0\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 9.0\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 9.0\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 9.0\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 9.0\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 9.0\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 9.0\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 9.0\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 9.0\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release 9.0\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release 9.0\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release 9.0\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release 9.0\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release 9.0\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release 9.0\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release 9.0\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release 9.0\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release 9.0\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release 9.0\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.0\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.0\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.0\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.0\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.0\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.0\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.0\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.0\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.0\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.0\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.1\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.1\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.1\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.1\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.1\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.1\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.1\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.1\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.1\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.1\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.2\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.2\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.2\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.2\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.2\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.2\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.2\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.2\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.2\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.2\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.3\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.3\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.3\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.3\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.3\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.3\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.3\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.3\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.3\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.3\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v11.1\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v11.1\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v11.1\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v11.1\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v11.1\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v11.1\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v11.1\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v11.1\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v11.1\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v11.1\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+D:\Ngkl\IEToolbarE-Filing v12\BandObjectsLib\bin\Release\BandObjectsLib.dll
+D:\Ngkl\IEToolbarE-Filing v12\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+D:\Ngkl\IEToolbarE-Filing v12\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+D:\Ngkl\IEToolbarE-Filing v12\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+D:\Ngkl\IEToolbarE-Filing v12\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+D:\Ngkl\IEToolbarE-Filing v12\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+D:\Ngkl\IEToolbarE-Filing v12\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+D:\Ngkl\IEToolbarE-Filing v12\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+D:\Ngkl\IEToolbarE-Filing v12\BandObjectsLib\obj\Release\BandObjectsLib.dll
+D:\Ngkl\IEToolbarE-Filing v12\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+D:\Ngkl\IEToolbarE-Filing v13\BandObjectsLib\bin\Release\BandObjectsLib.dll
+D:\Ngkl\IEToolbarE-Filing v13\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+D:\Ngkl\IEToolbarE-Filing v13\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+D:\Ngkl\IEToolbarE-Filing v13\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+D:\Ngkl\IEToolbarE-Filing v13\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+D:\Ngkl\IEToolbarE-Filing v13\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+D:\Ngkl\IEToolbarE-Filing v13\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+D:\Ngkl\IEToolbarE-Filing v13\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+D:\Ngkl\IEToolbarE-Filing v13\BandObjectsLib\obj\Release\BandObjectsLib.dll
+D:\Ngkl\IEToolbarE-Filing v13\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v12\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v12\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v12\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v12\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v12\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v12\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v12\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v12\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v12\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v12\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing v13\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing v13\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing v13\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing v13\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing v13\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing v13\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing v13\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing v13\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing v13\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing v13\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.1\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.1\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.1\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.1\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.1\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.1\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.1\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.1\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.1\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.1\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.2\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.2\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.2\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.2\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.2\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.2\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.2\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.2\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.2\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.2\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\XPMUser\Desktop\IEToolbarE-Filing\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\XPMUser\Desktop\IEToolbarE-Filing\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\XPMUser\Desktop\IEToolbarE-Filing\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\Desktop\IEToolbarE-Filing\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPMUser\Desktop\IEToolbarE-Filing\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\Desktop\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\XPMUser\Desktop\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\XPMUser\Desktop\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\XPMUser\Desktop\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\XPMUser\Desktop\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code\IEToolbarE-Filing\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code\IEToolbarE-Filing\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code\IEToolbarE-Filing\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code\IEToolbarE-Filing\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code\IEToolbarE-Filing\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\XPMUser\Desktop\IE toolbar code\IEToolbarE-Filing\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\XPMUser\Desktop\IE toolbar code\IEToolbarE-Filing\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\XPMUser\Desktop\IE toolbar code\IEToolbarE-Filing\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\Desktop\IE toolbar code\IEToolbarE-Filing\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPMUser\Desktop\IE toolbar code\IEToolbarE-Filing\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\Desktop\IE toolbar code\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\XPMUser\Desktop\IE toolbar code\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\XPMUser\Desktop\IE toolbar code\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\XPMUser\Desktop\IE toolbar code\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\XPMUser\Desktop\IE toolbar code\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\dannylee\Desktop\IE toolbar code V22\IEToolbarE-Filing\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\dannylee\Desktop\IE toolbar code V22\IEToolbarE-Filing\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\dannylee\Desktop\IE toolbar code V22\IEToolbarE-Filing\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\dannylee\Desktop\IE toolbar code V22\IEToolbarE-Filing\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\dannylee\Desktop\IE toolbar code V22\IEToolbarE-Filing\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\dannylee\Desktop\IE toolbar code V22\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\dannylee\Desktop\IE toolbar code V22\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\dannylee\Desktop\IE toolbar code V22\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\dannylee\Desktop\IE toolbar code V22\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\dannylee\Desktop\IE toolbar code V22\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V22 (default) 09022015\IE toolbar code V22\IEToolbarE-Filing\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V22 (default) 09022015\IE toolbar code V22\IEToolbarE-Filing\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V22 (default) 09022015\IE toolbar code V22\IEToolbarE-Filing\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V22 (default) 09022015\IE toolbar code V22\IEToolbarE-Filing\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V22 (default) 09022015\IE toolbar code V22\IEToolbarE-Filing\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V22 (default) 09022015\IE toolbar code V22\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V22 (default) 09022015\IE toolbar code V22\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V22 (default) 09022015\IE toolbar code V22\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V22 (default) 09022015\IE toolbar code V22\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V22 (default) 09022015\IE toolbar code V22\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V23 Add Delete All Testing\IEToolbarE-Filing\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V23 Add Delete All Testing\IEToolbarE-Filing\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V23 Add Delete All Testing\IEToolbarE-Filing\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V23 Add Delete All Testing\IEToolbarE-Filing\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V23 Add Delete All Testing\IEToolbarE-Filing\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V23 Add Delete All Testing\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V23 Add Delete All Testing\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V23 Add Delete All Testing\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V23 Add Delete All Testing\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V23 Add Delete All Testing\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\Malaysia Tax\Malaysia\IEToolbarE-Filing v23.1\IEToolbarE-Filing\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\Malaysia Tax\Malaysia\IEToolbarE-Filing v23.1\IEToolbarE-Filing\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\Malaysia Tax\Malaysia\IEToolbarE-Filing v23.1\IEToolbarE-Filing\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Malaysia Tax\Malaysia\IEToolbarE-Filing v23.1\IEToolbarE-Filing\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Malaysia Tax\Malaysia\IEToolbarE-Filing v23.1\IEToolbarE-Filing\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Malaysia Tax\Malaysia\IEToolbarE-Filing v23.1\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Malaysia Tax\Malaysia\IEToolbarE-Filing v23.1\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\Malaysia Tax\Malaysia\IEToolbarE-Filing v23.1\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Malaysia Tax\Malaysia\IEToolbarE-Filing v23.1\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\Malaysia Tax\Malaysia\IEToolbarE-Filing v23.1\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\Taxcom 2015 SU2 Source Code\IEToolbarE-Filing\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\Taxcom 2015 SU2 Source Code\IEToolbarE-Filing\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\Taxcom 2015 SU2 Source Code\IEToolbarE-Filing\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Taxcom 2015 SU2 Source Code\IEToolbarE-Filing\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Taxcom 2015 SU2 Source Code\IEToolbarE-Filing\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Taxcom 2015 SU2 Source Code\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Taxcom 2015 SU2 Source Code\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\Taxcom 2015 SU2 Source Code\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Taxcom 2015 SU2 Source Code\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\Taxcom 2015 SU2 Source Code\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.pdb
+C:\Users\onembox\Desktop\IEToolbarE-Filing\BandObjectsLib\bin\Release\BandObjectsLib.dll
+C:\Users\onembox\Desktop\IEToolbarE-Filing\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+C:\Users\onembox\Desktop\IEToolbarE-Filing\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+C:\Users\onembox\Desktop\IEToolbarE-Filing\BandObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Users\onembox\Desktop\IEToolbarE-Filing\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+C:\Users\onembox\Desktop\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+C:\Users\onembox\Desktop\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+C:\Users\onembox\Desktop\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+C:\Users\onembox\Desktop\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.dll
+C:\Users\onembox\Desktop\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.pdb

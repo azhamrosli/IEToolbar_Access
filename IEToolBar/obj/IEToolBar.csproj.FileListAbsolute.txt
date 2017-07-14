@@ -1,0 +1,1345 @@
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\IEToolBar\bin\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\IEToolBar\bin\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\IEToolBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\IEToolBar\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\IEToolBar\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing\IEToolBar\bin\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing\IEToolBar\bin\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing\IEToolBar\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing\IEToolBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing\IEToolBar\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing v2.1\IEToolbarE-Filing\IEToolbarE-Filing\IEToolBar\bin\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing v2.1\IEToolbarE-Filing\IEToolbarE-Filing\IEToolBar\bin\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing v2.1\IEToolbarE-Filing\IEToolbarE-Filing\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing v2.1\IEToolbarE-Filing\IEToolbarE-Filing\IEToolBar\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing v2.1\IEToolbarE-Filing\IEToolbarE-Filing\IEToolBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing v2.1\IEToolbarE-Filing\IEToolbarE-Filing\IEToolBar\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing v2.1\IEToolbarE-Filing\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing v2.1\IEToolbarE-Filing\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing v2.1\IEToolbarE-Filing\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing v2.1\IEToolbarE-Filing\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing v2.1\IEToolbarE-Filing\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing v2.1\IEToolbarE-Filing\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing v2.1\IEToolbarE-Filing\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing v2.1\IEToolbarE-Filing\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing v2.1\IEToolbarE-Filing\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing v2.1\IEToolbarE-Filing\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0\IEToolBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0\IEToolBar\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0\IEToolBar\obj\Debug\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0\IEToolBar\obj\Debug\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0\IEToolBar\obj\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0\IEToolBar\bin\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0\IEToolBar\bin\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0\IEToolBar\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0\IEToolBar\obj\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0\IEToolBar\obj\Debug\IEToolBar.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0 Testing\IEToolBar\bin\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0 Testing\IEToolBar\bin\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0 Testing\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0 Testing\IEToolBar\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0 Testing\IEToolBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0 Testing\IEToolBar\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0 Testing\IEToolBar\obj\Debug\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0 Testing\IEToolBar\obj\Debug\IEToolBar.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0 Testing\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0 Testing\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0 Testing\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0 Testing\IEToolBar\obj\Debug\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0 Testing\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0 Testing\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0 Testing\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0 Testing\IEToolBar\obj\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 3.0 Testing\IEToolBar\obj\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 3.0 Testing\IEToolBar\bin\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 3.0 Testing\IEToolBar\bin\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 3.0 Testing\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 3.0 Testing\IEToolBar\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 3.0 Testing\IEToolBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 3.0 Testing\IEToolBar\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 3.0 Testing\IEToolBar\obj\Debug\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 3.0 Testing\IEToolBar\obj\Debug\IEToolBar.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 3.0 Testing\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 3.0 Testing\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 3.0 Testing\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 3.0 Testing\IEToolBar\obj\Debug\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 3.0 Testing\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 3.0 Testing\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 3.0 Testing\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 3.0 Testing\IEToolBar\obj\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 3.0 Testing\IEToolBar\obj\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Testing\IEToolBar\bin\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Testing\IEToolBar\bin\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Testing\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Testing\IEToolBar\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Testing\IEToolBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Testing\IEToolBar\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Testing\IEToolBar\obj\Debug\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Testing\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Testing\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Testing\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Testing\IEToolBar\obj\Debug\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Testing\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Testing\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Testing\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Testing\IEToolBar\obj\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Testing\IEToolBar\obj\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 4.0 Internal\IEToolBar\bin\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 4.0 Internal\IEToolBar\bin\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 4.0 Internal\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 4.0 Internal\IEToolBar\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 4.0 Internal\IEToolBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 4.0 Internal\IEToolBar\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 4.0 Internal\IEToolBar\obj\Debug\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 4.0 Internal\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 4.0 Internal\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 4.0 Internal\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 4.0 Internal\IEToolBar\obj\Debug\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 4.0 Internal\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 4.0 Internal\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 4.0 Internal\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 4.0 Internal\IEToolBar\obj\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IE Toolbar E-Filing\IEToolbarE-Filing 4.0 Internal\IEToolBar\obj\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Internal\IEToolBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Internal\IEToolBar\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Internal\IEToolBar\obj\Debug\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Internal\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Internal\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Internal\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Internal\IEToolBar\obj\Debug\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Internal\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Internal\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Internal\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Internal\IEToolBar\obj\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Internal\IEToolBar\obj\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Internal\IEToolBar\bin\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Internal\IEToolBar\bin\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Internal\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-Filing 4.0 Internal\IEToolBar\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\My Documents\CS\IE Toolbar E-Filing\IEToolbarE-Filing 5.0 Internal\IEToolBar\bin\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\My Documents\CS\IE Toolbar E-Filing\IEToolbarE-Filing 5.0 Internal\IEToolBar\bin\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\My Documents\CS\IE Toolbar E-Filing\IEToolbarE-Filing 5.0 Internal\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\My Documents\CS\IE Toolbar E-Filing\IEToolbarE-Filing 5.0 Internal\IEToolBar\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\My Documents\CS\IE Toolbar E-Filing\IEToolbarE-Filing 5.0 Internal\IEToolBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\CS\IE Toolbar E-Filing\IEToolbarE-Filing 5.0 Internal\IEToolBar\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\My Documents\CS\IE Toolbar E-Filing\IEToolbarE-Filing 5.0 Internal\IEToolBar\obj\Debug\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\My Documents\CS\IE Toolbar E-Filing\IEToolbarE-Filing 5.0 Internal\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\My Documents\CS\IE Toolbar E-Filing\IEToolbarE-Filing 5.0 Internal\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\My Documents\CS\IE Toolbar E-Filing\IEToolbarE-Filing 5.0 Internal\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\My Documents\CS\IE Toolbar E-Filing\IEToolbarE-Filing 5.0 Internal\IEToolBar\obj\Debug\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\My Documents\CS\IE Toolbar E-Filing\IEToolbarE-Filing 5.0 Internal\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\CS\IE Toolbar E-Filing\IEToolbarE-Filing 5.0 Internal\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\My Documents\CS\IE Toolbar E-Filing\IEToolbarE-Filing 5.0 Internal\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\CS\IE Toolbar E-Filing\IEToolbarE-Filing 5.0 Internal\IEToolBar\obj\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\My Documents\CS\IE Toolbar E-Filing\IEToolbarE-Filing 5.0 Internal\IEToolBar\obj\Debug\IEToolBar.pdb
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\bin\Debug\IEToolBar.dll
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\bin\Debug\IEToolBar.pdb
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\bin\Debug\Interop.SHDocVw.dll
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\obj\Debug\ResolveAssemblyReference.cache
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\obj\Debug\Interop.SHDocVw.dll
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\obj\Debug\IEToolBar.csproj.ResolveComReference.cache
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\obj\Debug\IEToolBar.frmTaxAgentLogIn.resources
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\obj\Debug\IEToolBar.frmRKTRKS.resources
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\obj\Debug\IEToolBar.dll
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\obj\Debug\IEToolBar.pdb
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\bin\Release\IEToolBar.dll
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\bin\Release\IEToolBar.pdb
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\bin\Release\Microsoft.mshtml.dll
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\bin\Release\Interop.SHDocVw.dll
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\obj\Release\Interop.SHDocVw.dll
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\obj\Release\IEToolBar.dll
+D:\IEToolbarE-Filing 5.0 Internal (Testing 2)\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.1\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.1\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.1\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.1\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.1\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.1\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.1\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.1\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.1\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.1\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.1\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.1\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.1\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.1\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.1\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.1\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.1\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.1\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\bin\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\bin\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\obj\Debug\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\obj\Debug\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\obj\Debug\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\obj\Debug\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\obj\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.2\IEToolBar\obj\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.3\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.3\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.3\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.3\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.3\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.3\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.3\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.3\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.3\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.3\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.3\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.3\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.3\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.3\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.3\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.3\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.3\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.3\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.5\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.5\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.5\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.5\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.5\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.5\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.5\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.5\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.5\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.5\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.5\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.5\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.5\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.5\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.5\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.5\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.5\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.5\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\bin\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\bin\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\obj\Debug\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\obj\Debug\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\obj\Debug\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\obj\Debug\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\obj\Debug\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\obj\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.7\IEToolBar\obj\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.8\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.8\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.8\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.8\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.8\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.8\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.8\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.8\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.8\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.8\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.8\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.8\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.8\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.8\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.8\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.8\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.8\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.8\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IEToolbarE-FilingB Internal 0.8\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.9 (CSNGOH)\IEToolBar\bin\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.9 (CSNGOH)\IEToolBar\bin\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.9 (CSNGOH)\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.9 (CSNGOH)\IEToolBar\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.9 (CSNGOH)\IEToolBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.9 (CSNGOH)\IEToolBar\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.9 (CSNGOH)\IEToolBar\obj\Debug\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.9 (CSNGOH)\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.9 (CSNGOH)\IEToolBar\obj\Debug\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.9 (CSNGOH)\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.9 (CSNGOH)\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.9 (CSNGOH)\IEToolBar\obj\Debug\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.9 (CSNGOH)\IEToolBar\obj\Debug\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.9 (CSNGOH)\IEToolBar\obj\Debug\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.9 (CSNGOH)\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.9 (CSNGOH)\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.9 (CSNGOH)\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.9 (CSNGOH)\IEToolBar\obj\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Internal 0.9 (CSNGOH)\IEToolBar\obj\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\bin\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\bin\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\obj\Debug\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\obj\Debug\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\obj\Debug\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\obj\Debug\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\obj\Debug\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\obj\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.9a\IEToolBar\obj\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\bin\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\bin\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Debug\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Debug\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Debug\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Debug\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Debug\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\bin\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\bin\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\obj\Debug\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\obj\Debug\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\obj\Debug\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\obj\Debug\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\obj\Debug\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\obj\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\obj\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\bin\Release\BandObjectsLib.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.3Latest\IEToolBar\obj\Release\IEToolBar.pdb
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.3\IEToolBar\bin\Debug\IEToolBar.dll
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.3\IEToolBar\bin\Debug\IEToolBar.pdb
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.3\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.3\IEToolBar\bin\Debug\Interop.SHDocVw.dll
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Debug\ResolveAssemblyReference.cache
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Debug\Interop.SHDocVw.dll
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Debug\IEToolBar.csproj.ResolveComReference.cache
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Debug\IEToolBar.frmTaxAgentLogIn.resources
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Debug\IEToolBar.frmHK3.resources
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Debug\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Debug\IEToolBar.frmRKTRKS.resources
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Debug\IEToolBar.dll
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.3\IEToolBar\obj\Debug\IEToolBar.pdb
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.4\IEToolBar\bin\Debug\IEToolBar.dll
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.4\IEToolBar\bin\Debug\IEToolBar.pdb
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.4\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.4\IEToolBar\bin\Debug\Interop.SHDocVw.dll
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.4\IEToolBar\obj\Debug\ResolveAssemblyReference.cache
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.4\IEToolBar\obj\Debug\Interop.SHDocVw.dll
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.4\IEToolBar\obj\Debug\IEToolBar.csproj.ResolveComReference.cache
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.4\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.4\IEToolBar\obj\Debug\IEToolBar.frmTaxAgentLogIn.resources
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.4\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.4\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.4\IEToolBar\obj\Debug\IEToolBar.frmHK3.resources
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.4\IEToolBar\obj\Debug\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.4\IEToolBar\obj\Debug\IEToolBar.frmRKTRKS.resources
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.4\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.4\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.4\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.4\IEToolBar\obj\Debug\IEToolBar.dll
+C:\SL\Taxcom Office v2008\IEToolbarE-FilingB Release 0.4\IEToolBar\obj\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.6\IEToolBar\bin\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.6\IEToolBar\bin\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.6\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.6\IEToolBar\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.6\IEToolBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.6\IEToolBar\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.6\IEToolBar\obj\Debug\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.6\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.6\IEToolBar\obj\Debug\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.6\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.6\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.6\IEToolBar\obj\Debug\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.6\IEToolBar\obj\Debug\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.6\IEToolBar\obj\Debug\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.6\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.6\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.6\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.6\IEToolBar\obj\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IEToolbarE-FilingB Release 0.6\IEToolBar\obj\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\Project\IEToolbarE-FilingB Release 0.7\IEToolBar\bin\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\Project\IEToolbarE-FilingB Release 0.7\IEToolBar\bin\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\Project\IEToolbarE-FilingB Release 0.7\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\Project\IEToolbarE-FilingB Release 0.7\IEToolBar\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Project\IEToolbarE-FilingB Release 0.7\IEToolBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Project\IEToolbarE-FilingB Release 0.7\IEToolBar\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Project\IEToolbarE-FilingB Release 0.7\IEToolBar\obj\Debug\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Project\IEToolbarE-FilingB Release 0.7\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\Project\IEToolbarE-FilingB Release 0.7\IEToolBar\obj\Debug\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator\Desktop\Project\IEToolbarE-FilingB Release 0.7\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\Project\IEToolbarE-FilingB Release 0.7\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\Project\IEToolbarE-FilingB Release 0.7\IEToolBar\obj\Debug\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator\Desktop\Project\IEToolbarE-FilingB Release 0.7\IEToolBar\obj\Debug\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\Administrator\Desktop\Project\IEToolbarE-FilingB Release 0.7\IEToolBar\obj\Debug\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\Project\IEToolbarE-FilingB Release 0.7\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Project\IEToolbarE-FilingB Release 0.7\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\Project\IEToolbarE-FilingB Release 0.7\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Project\IEToolbarE-FilingB Release 0.7\IEToolBar\obj\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\Project\IEToolbarE-FilingB Release 0.7\IEToolBar\obj\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.8\IEToolBar\bin\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.8\IEToolBar\bin\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.8\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.8\IEToolBar\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.8\IEToolBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.8\IEToolBar\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.8\IEToolBar\obj\Debug\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.8\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.8\IEToolBar\obj\Debug\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.8\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.8\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.8\IEToolBar\obj\Debug\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.8\IEToolBar\obj\Debug\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.8\IEToolBar\obj\Debug\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.8\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.8\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.8\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.8\IEToolBar\obj\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.8\IEToolBar\obj\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.9\IEToolBar\bin\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.9\IEToolBar\bin\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.9\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.9\IEToolBar\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.9\IEToolBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.9\IEToolBar\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.9\IEToolBar\obj\Debug\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.9\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.9\IEToolBar\obj\Debug\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.9\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.9\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.9\IEToolBar\obj\Debug\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.9\IEToolBar\obj\Debug\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.9\IEToolBar\obj\Debug\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.9\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.9\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.9\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.9\IEToolBar\obj\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.9\IEToolBar\obj\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.91\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.91\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.91\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.91\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.91\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.91\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.91\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.91\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.91\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.91\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.91\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.91\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.91\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.91\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.91\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.91\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.91\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.91\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-FilingB Release 0.91\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 5.0\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 5.0\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 5.0\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 5.0\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 5.0\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 5.0\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 5.0\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 5.0\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 5.0\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 5.0\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 5.0\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 5.0\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 5.0\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 5.0\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 5.0\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 5.0\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 5.0\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 5.0\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 5.0\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 6.0\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 6.0\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 6.0\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 6.0\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 6.0\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 6.0\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 6.0\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 6.0\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 6.0\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 6.0\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 6.0\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 6.0\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 6.0\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 6.0\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 6.0\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 6.0\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 6.0\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 6.0\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 6.0\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.0\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.0\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.0\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.0\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.0\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.0\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.0\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.0\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.0\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.0\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.0\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.0\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.0\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.0\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.0\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.0\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.0\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.0\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.0\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.1\IEToolBar\bin\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.1\IEToolBar\bin\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.1\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.1\IEToolBar\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.1\IEToolBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.1\IEToolBar\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.1\IEToolBar\obj\Debug\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.1\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.1\IEToolBar\obj\Debug\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.1\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.1\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.1\IEToolBar\obj\Debug\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.1\IEToolBar\obj\Debug\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.1\IEToolBar\obj\Debug\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.1\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.1\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.1\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.1\IEToolBar\obj\Debug\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.1\IEToolBar\obj\Debug\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.2\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.2\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.2\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.2\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.2\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.2\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.2\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.2\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.2\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.2\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.2\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.2\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.2\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.2\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.2\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.2\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.2\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.2\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 7.2\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 9.0\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 9.0\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 9.0\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 9.0\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 9.0\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 9.0\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 9.0\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 9.0\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 9.0\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 9.0\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 9.0\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 9.0\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 9.0\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 9.0\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 9.0\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 9.0\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 9.0\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 9.0\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Project\IEToolbarE-Filing Release 9.0\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release 9.0\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release 9.0\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release 9.0\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release 9.0\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release 9.0\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release 9.0\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release 9.0\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release 9.0\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release 9.0\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release 9.0\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release 9.0\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release 9.0\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release 9.0\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release 9.0\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release 9.0\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release 9.0\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release 9.0\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release 9.0\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release 9.0\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\Syang\Installer Testing\IEToolbarE-Filing Release\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.0\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.0\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.0\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.0\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.0\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.0\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.0\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.0\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.0\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.0\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.0\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.0\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.0\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.0\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.0\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.0\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.0\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.0\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.0\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.1\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.1\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.1\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.1\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.1\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.1\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.1\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.1\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.1\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.1\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.1\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.1\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.1\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.1\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.1\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.1\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.1\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.1\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.1\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.2\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.2\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.2\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.2\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.2\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.2\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.2\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.2\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.2\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.2\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.2\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.2\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.2\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.2\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.2\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.2\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.2\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.2\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.2\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.3\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.3\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.3\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.3\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.3\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.3\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.3\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.3\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.3\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.3\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.3\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.3\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.3\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.3\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.3\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.3\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.3\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.3\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v10.3\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v11.1\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v11.1\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v11.1\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v11.1\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v11.1\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v11.1\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v11.1\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v11.1\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v11.1\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v11.1\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v11.1\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v11.1\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v11.1\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v11.1\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v11.1\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v11.1\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v11.1\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v11.1\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v11.1\IEToolBar\obj\Release\IEToolBar.pdb
+D:\Ngkl\IEToolbarE-Filing v12\IEToolBar\bin\Release\IEToolBar.dll
+D:\Ngkl\IEToolbarE-Filing v12\IEToolBar\bin\Release\IEToolBar.pdb
+D:\Ngkl\IEToolbarE-Filing v12\IEToolBar\bin\Release\Microsoft.mshtml.dll
+D:\Ngkl\IEToolbarE-Filing v12\IEToolBar\bin\Release\Interop.SHDocVw.dll
+D:\Ngkl\IEToolbarE-Filing v12\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+D:\Ngkl\IEToolbarE-Filing v12\IEToolBar\obj\Release\Interop.SHDocVw.dll
+D:\Ngkl\IEToolbarE-Filing v12\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+D:\Ngkl\IEToolbarE-Filing v12\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+D:\Ngkl\IEToolbarE-Filing v12\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+D:\Ngkl\IEToolbarE-Filing v12\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+D:\Ngkl\IEToolbarE-Filing v12\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+D:\Ngkl\IEToolbarE-Filing v12\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+D:\Ngkl\IEToolbarE-Filing v12\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+D:\Ngkl\IEToolbarE-Filing v12\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+D:\Ngkl\IEToolbarE-Filing v12\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+D:\Ngkl\IEToolbarE-Filing v12\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+D:\Ngkl\IEToolbarE-Filing v12\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+D:\Ngkl\IEToolbarE-Filing v12\IEToolBar\obj\Release\IEToolBar.dll
+D:\Ngkl\IEToolbarE-Filing v12\IEToolBar\obj\Release\IEToolBar.pdb
+D:\Ngkl\IEToolbarE-Filing v13\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+D:\Ngkl\IEToolbarE-Filing v13\IEToolBar\obj\Release\Interop.SHDocVw.dll
+D:\Ngkl\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+D:\Ngkl\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+D:\Ngkl\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+D:\Ngkl\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+D:\Ngkl\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+D:\Ngkl\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+D:\Ngkl\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+D:\Ngkl\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+D:\Ngkl\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+D:\Ngkl\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+D:\Ngkl\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+D:\Ngkl\IEToolbarE-Filing v13\IEToolBar\bin\Release\IEToolBar.dll
+D:\Ngkl\IEToolbarE-Filing v13\IEToolBar\bin\Release\IEToolBar.pdb
+D:\Ngkl\IEToolbarE-Filing v13\IEToolBar\bin\Release\Microsoft.mshtml.dll
+D:\Ngkl\IEToolbarE-Filing v13\IEToolBar\bin\Release\Interop.SHDocVw.dll
+D:\Ngkl\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.dll
+D:\Ngkl\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v12\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v12\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v12\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v12\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v12\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v12\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v12\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v12\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v12\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v12\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v12\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v12\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v12\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v12\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v12\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v12\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v12\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v12\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\csngoh\Desktop\Taxoffice\EFiling\IEToolbarE-Filing v12\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing v13\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing v13\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing v13\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing v13\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing v13\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing v13\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.1\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.1\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.1\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.1\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.1\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.1\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.1\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.1\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.1\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.1\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.1\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.1\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.1\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.1\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.1\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.1\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.1\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.1\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.1\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.2\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.2\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.2\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.2\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.2\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.2\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.2\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.2\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.2\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.2\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.2\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.2\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.2\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.2\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.2\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.2\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.2\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.2\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator.YGLDESK0009\Desktop\IEToolbarE-Filing v13.2\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\bin\Debug\IEToolBar.dll
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\bin\Debug\IEToolBar.pdb
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\bin\Debug\BandObjectsLib.dll
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmHK3.resources
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.dll
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.pdb
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\bin\Release\BandObjectsLib.dll
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2005\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\bin\Debug\IEToolBar.dll
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\bin\Debug\IEToolBar.pdb
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmHK3.resources
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.dll
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.pdb
+C:\Documents and Settings\XPMUser\Desktop\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\XPMUser\Desktop\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\XPMUser\Desktop\IEToolbarE-Filing\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\XPMUser\Desktop\IEToolbarE-Filing\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPMUser\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\XPMUser\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\XPMUser\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\XPMUser\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\XPMUser\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\XPMUser\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\XPMUser\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\XPMUser\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\XPMUser\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\XPMUser\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\XPMUser\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\XPMUser\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\XPMUser\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\XPMUser\Desktop\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\XPMUser\Desktop\SVN\taxcom\Taxoffice\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\XPMUser\Desktop\SVN\taxcom\Taxoffice\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\XPMUser\Desktop\SVN\taxcom\Taxoffice\IEToolbarE-Filing\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\XPMUser\Desktop\SVN\taxcom\Taxoffice\IEToolbarE-Filing\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\Desktop\SVN\taxcom\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPMUser\Desktop\SVN\taxcom\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\Desktop\SVN\taxcom\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\XPMUser\Desktop\SVN\taxcom\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\XPMUser\Desktop\SVN\taxcom\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\XPMUser\Desktop\SVN\taxcom\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\XPMUser\Desktop\SVN\taxcom\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\XPMUser\Desktop\SVN\taxcom\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\XPMUser\Desktop\SVN\taxcom\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\XPMUser\Desktop\SVN\taxcom\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\XPMUser\Desktop\SVN\taxcom\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\XPMUser\Desktop\SVN\taxcom\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\XPMUser\Desktop\SVN\taxcom\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\XPMUser\Desktop\SVN\taxcom\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\XPMUser\Desktop\SVN\taxcom\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmHK3.resources
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.dll
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.pdb
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\bin\Debug\IEToolBar.dll
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\bin\Debug\IEToolBar.pdb
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\XPMUser\Desktop\2012 SU3 Code\Taxoffice\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\XPMUser\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPMUser\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\XPMUser\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\XPMUser\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\XPMUser\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\XPMUser\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\XPMUser\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\XPMUser\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\XPMUser\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\XPMUser\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\XPMUser\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\XPMUser\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\XPMUser\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\XPMUser\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\XPMUser\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\XPMUser\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\XPMUser\Desktop\IE toolbar code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\dannylee\Desktop\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\dannylee\Desktop\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\dannylee\Desktop\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\dannylee\Desktop\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\dannylee\Desktop\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\dannylee\Desktop\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\dannylee\Desktop\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\dannylee\Desktop\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\dannylee\Desktop\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\dannylee\Desktop\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\dannylee\Desktop\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\dannylee\Desktop\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\dannylee\Desktop\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\dannylee\Desktop\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\dannylee\Desktop\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\dannylee\Desktop\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\dannylee\Desktop\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\dannylee\Desktop\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\dannylee\Desktop\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V22 (default) 09022015\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V22 (default) 09022015\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V22 (default) 09022015\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V22 (default) 09022015\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V22 (default) 09022015\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V22 (default) 09022015\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V22 (default) 09022015\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V22 (default) 09022015\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V22 (default) 09022015\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V22 (default) 09022015\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V22 (default) 09022015\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V22 (default) 09022015\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V22 (default) 09022015\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V22 (default) 09022015\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V22 (default) 09022015\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V22 (default) 09022015\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V22 (default) 09022015\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V22 (default) 09022015\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V22 (default) 09022015\IE toolbar code V22\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V23 Add Delete All Testing\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V23 Add Delete All Testing\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V23 Add Delete All Testing\IEToolbarE-Filing\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V23 Add Delete All Testing\IEToolbarE-Filing\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V23 Add Delete All Testing\IEToolbarE-Filing\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V23 Add Delete All Testing\IEToolbarE-Filing\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V23 Add Delete All Testing\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V23 Add Delete All Testing\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V23 Add Delete All Testing\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V23 Add Delete All Testing\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V23 Add Delete All Testing\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V23 Add Delete All Testing\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V23 Add Delete All Testing\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V23 Add Delete All Testing\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V23 Add Delete All Testing\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V23 Add Delete All Testing\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V23 Add Delete All Testing\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V23 Add Delete All Testing\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\IE toolbar code V23 Add Delete All Testing\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmHK3.resources
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.dll
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\bin\Debug\IEToolBar.dll
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\bin\Debug\IEToolBar.pdb
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\bin\Debug\Microsoft.mshtml.dll
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Debug\IEToolBar.pdb
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\XPMUser\Desktop\taxcom su8.1\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\Malaysia Tax\Malaysia\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\Malaysia Tax\Malaysia\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\Malaysia Tax\Malaysia\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\Malaysia Tax\Malaysia\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Malaysia Tax\Malaysia\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Malaysia Tax\Malaysia\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Malaysia Tax\Malaysia\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Malaysia Tax\Malaysia\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\Malaysia Tax\Malaysia\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator\Desktop\Malaysia Tax\Malaysia\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\Malaysia Tax\Malaysia\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\Malaysia Tax\Malaysia\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator\Desktop\Malaysia Tax\Malaysia\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\Administrator\Desktop\Malaysia Tax\Malaysia\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\Malaysia Tax\Malaysia\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Malaysia Tax\Malaysia\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\Malaysia Tax\Malaysia\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Malaysia Tax\Malaysia\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\Malaysia Tax\Malaysia\IEToolbarE-Filing v23.1\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\Taxcom 2015 SU2 Source Code\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\Taxcom 2015 SU2 Source Code\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Documents and Settings\Administrator\Desktop\Taxcom 2015 SU2 Source Code\IEToolbarE-Filing\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Documents and Settings\Administrator\Desktop\Taxcom 2015 SU2 Source Code\IEToolbarE-Filing\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Taxcom 2015 SU2 Source Code\IEToolbarE-Filing\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Taxcom 2015 SU2 Source Code\IEToolbarE-Filing\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\Taxcom 2015 SU2 Source Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Taxcom 2015 SU2 Source Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Documents and Settings\Administrator\Desktop\Taxcom 2015 SU2 Source Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Documents and Settings\Administrator\Desktop\Taxcom 2015 SU2 Source Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Documents and Settings\Administrator\Desktop\Taxcom 2015 SU2 Source Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Documents and Settings\Administrator\Desktop\Taxcom 2015 SU2 Source Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Documents and Settings\Administrator\Desktop\Taxcom 2015 SU2 Source Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Documents and Settings\Administrator\Desktop\Taxcom 2015 SU2 Source Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Documents and Settings\Administrator\Desktop\Taxcom 2015 SU2 Source Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Taxcom 2015 SU2 Source Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Documents and Settings\Administrator\Desktop\Taxcom 2015 SU2 Source Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Taxcom 2015 SU2 Source Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.dll
+C:\Documents and Settings\Administrator\Desktop\Taxcom 2015 SU2 Source Code\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.pdb
+C:\Users\onembox\Desktop\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.dll
+C:\Users\onembox\Desktop\IEToolbarE-Filing\IEToolBar\bin\Release\IEToolBar.pdb
+C:\Users\onembox\Desktop\IEToolbarE-Filing\IEToolBar\bin\Release\Microsoft.mshtml.dll
+C:\Users\onembox\Desktop\IEToolbarE-Filing\IEToolBar\bin\Release\Interop.SHDocVw.dll
+C:\Users\onembox\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\ResolveAssemblyReference.cache
+C:\Users\onembox\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\Interop.SHDocVw.dll
+C:\Users\onembox\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.ResolveComReference.cache
+C:\Users\onembox\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileAdd.resources
+C:\Users\onembox\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmTaxAgentLogIn.resources
+C:\Users\onembox\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileSelect.resources
+C:\Users\onembox\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmEFileURL.resources
+C:\Users\onembox\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmHK3.resources
+C:\Users\onembox\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmMaklumatAhliKongsi.resources
+C:\Users\onembox\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.frmRKTRKS.resources
+C:\Users\onembox\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.Properties.Resources.resources
+C:\Users\onembox\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.ucToolBar.resources
+C:\Users\onembox\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.csproj.GenerateResource.Cache
+C:\Users\onembox\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.dll
+C:\Users\onembox\Desktop\IEToolbarE-Filing\IEToolBar\obj\Release\IEToolBar.pdb

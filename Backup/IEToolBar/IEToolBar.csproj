@@ -1,0 +1,237 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{916548C1-58D3-4F13-98FE-56BB301CD7D7}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>IEToolBar</RootNamespace>
+    <AssemblyName>IEToolBar</AssemblyName>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>TaxComToolbarE-Filing.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BandObjectsLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=ffdc4657f9a00288, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\BandObjectsLib\bin\Debug\BandObjectsLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.mshtml, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="EFilingDALB2013.cs" />
+    <Compile Include="EFilingDALB2014.cs" />
+    <Compile Include="EFilingDALBE2013.cs" />
+    <Compile Include="EFilingDALBE2014.cs" />
+    <Compile Include="EFilingDALC2013.cs" />
+    <Compile Include="EFilingDALC2014.cs" />
+    <Compile Include="EFilingDALC2015.cs" />
+    <Compile Include="EFilingDALM2013.cs" />
+    <Compile Include="EFilingDALM2014.cs" />
+    <Compile Include="EFilingDALP2012.cs" />
+    <Compile Include="EFilingDALB2011.cs" />
+    <Compile Include="EFilingDALB2012.cs" />
+    <Compile Include="EFilingDALBE2011.cs" />
+    <Compile Include="EFilingDALBE2012.cs" />
+    <Compile Include="EFilingDALC2011.cs" />
+    <Compile Include="EFilingDALC2012.cs" />
+    <Compile Include="EFilingDALCP204A.cs" />
+    <Compile Include="EFilingDALM2010.cs" />
+    <Compile Include="EFilingDALM2011.cs" />
+    <Compile Include="EFilingDALM2012.cs" />
+    <Compile Include="EFilingDALP2010.cs" />
+    <Compile Include="EFilingDALB2010.cs" />
+    <Compile Include="EFilingDALBE2010.cs" />
+    <Compile Include="EFilingDALBE2009.cs" />
+    <Compile Include="EFilingDALCP204.cs" />
+    <Compile Include="EFilingDALM2009.cs" />
+    <Compile Include="EFilingDALP2009.cs" />
+    <Compile Include="EFilingDALP2011.cs" />
+    <Compile Include="EFilingDALP2013.cs" />
+    <Compile Include="EFilingDALP2014.cs" />
+    <Compile Include="EFilingProcessB.cs" />
+    <Compile Include="EFilingProcessBE.cs" />
+    <Compile Include="EFilingProcessCP204.cs" />
+    <Compile Include="EFilingProcessCP204A.cs" />
+    <Compile Include="EFilingProcessGeneral.cs" />
+    <Compile Include="EFilingProcessHK3.cs" />
+    <Compile Include="EFilingProcessM.cs" />
+    <Compile Include="EFilingProcessMaklumatAhliKongsi.cs" />
+    <Compile Include="EFilingProcessP.cs" />
+    <Compile Include="EFilingProcessR.cs" />
+    <Compile Include="EFilingDALC2009.cs" />
+    <Compile Include="EFilingDALP.cs" />
+    <Compile Include="EFilingDALB.cs" />
+    <Compile Include="EFilingDAL.cs" />
+    <Compile Include="EFilingProcessC.cs" />
+    <Compile Include="EFilingPublic.cs" />
+    <Compile Include="EFilingVersionUpgrade.cs" />
+    <Compile Include="frmEFileAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEFileAdd.Designer.cs">
+      <DependentUpon>frmEFileAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEFileLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEFileLogin.Designer.cs">
+      <DependentUpon>frmEFileLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEFileSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEFileSelect.Designer.cs">
+      <DependentUpon>frmEFileSelect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEFileURL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEFileURL.Designer.cs">
+      <DependentUpon>frmEFileURL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHK3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHK3.Designer.cs">
+      <DependentUpon>frmHK3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMaklumatAhliKongsi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMaklumatAhliKongsi.Designer.cs">
+      <DependentUpon>frmMaklumatAhliKongsi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRKTRKS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRKTRKS.Designer.cs">
+      <DependentUpon>frmRKTRKS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InitToolbarBHO.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="EFilingDALB2009.cs" />
+    <Compile Include="EFilingDALC2010.cs" />
+    <Compile Include="ucToolBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucToolBar.Designer.cs">
+      <DependentUpon>ucToolBar.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmEFileAdd.resx">
+      <DependentUpon>frmEFileAdd.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEFileLogin.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmEFileLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEFileSelect.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmEFileSelect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEFileURL.resx">
+      <DependentUpon>frmEFileURL.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHK3.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmHK3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMaklumatAhliKongsi.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmMaklumatAhliKongsi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRKTRKS.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmRKTRKS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucToolBar.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ucToolBar.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="TaxComToolbarE-Filing.snk" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="SHDocVw">
+      <Guid>{EAB22AC0-30C1-11CF-A7EB-0000C05BAE0B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngDelete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngEdit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngNew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gifRefresh.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram2.cd" />
+    <None Include="ClassDiagram3.cd" />
+    <None Include="ClassDiagram4.cd" />
+    <None Include="ClassDiagram5.cd" />
+    <None Include="ClassDiagram6.cd" />
+    <None Include="Resources\tsbtnFill.Image.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,10 @@
+D:\Window XP Shared\Code\IEToolbarE-Filing\BandObjectsLib\bin\Release\BandObjectsLib.dll
+D:\Window XP Shared\Code\IEToolbarE-Filing\BandObjectsLib\bin\Release\BandObjectsLib.pdb
+D:\Window XP Shared\Code\IEToolbarE-Filing\BandObjectsLib\bin\Release\Interop.SHDocVw.dll
+D:\Window XP Shared\Code\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.csprojResolveAssemblyReference.cache
+D:\Window XP Shared\Code\IEToolbarE-Filing\BandObjectsLib\obj\Release\Interop.SHDocVw.dll
+D:\Window XP Shared\Code\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.csproj.ResolveComReference.cache
+D:\Window XP Shared\Code\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.BandObject.resources
+D:\Window XP Shared\Code\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.csproj.GenerateResource.Cache
+D:\Window XP Shared\Code\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.dll
+D:\Window XP Shared\Code\IEToolbarE-Filing\BandObjectsLib\obj\Release\BandObjectsLib.pdb
