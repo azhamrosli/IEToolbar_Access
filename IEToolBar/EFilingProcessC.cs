@@ -35922,13 +35922,16 @@ namespace IEToolBar
                             switch (inpElement.name)
                             {
                                 case "ctl00$ContentPlaceHolder1$txtI1":
+                                    
                                     if (dsData.Tables["P12_EXEMPT_ACC"].Rows.Count > 0)
                                     {
+                                        MessageBox.Show(dsData.Tables["P12_EXEMPT_ACC"].Rows[0].ItemArray[0].ToString());
                                         inpElement.value = dsData.Tables["P12_EXEMPT_ACC"].Rows[0].ItemArray[0].ToString();
                                         FireInpElementEvent(inpElement, "OnBlur");
                                     }
                                     else
                                     {
+                                        MessageBox.Show("No data P12_EXEMPT_ACC");
                                         //boolNoRecord = true;
                                         inpElement.value = "";
                                         FireInpElementEvent(inpElement, "OnBlur");
@@ -49565,7 +49568,7 @@ namespace IEToolBar
                             break;
                         #endregion
 
-                        #region "Page 3"
+                        #region "Page 3" 
                         case "C2017Page3":
                             switch (selElement.name)
                             {
@@ -49595,26 +49598,71 @@ namespace IEToolBar
                                         FireSelElementEvent(selElement, "OnBlur");
                                     }
                                     break;
+
+                                
                                 case "ctl00$ContentPlaceHolder1$ddlQ1_jpengenalan":
+
+                                    //dsData.Tables["P3_SYER"] //.Rows[0].ItemArray[1].ToString();
+
+                                    if (dsData .Tables ["P3_SYER"].Rows.Count > 1)
+                                    {
                                      selElement.value = "1";
-                                     FireSelElementEvent(selElement, "OnBlur");
+                                    }
+                                    else
+                                    {
+                                        selElement.value = "";
+                                    }
+                                    FireSelElementEvent(selElement, "OnBlur");
                                      break;
+                                
                                 case "ctl00$ContentPlaceHolder1$ddlQ2_jpengenalan":
+                                  if (dsData .Tables ["P3_SYER"].Rows.Count > 1)
+                                    {
                                      selElement.value = "1";
-                                     FireSelElementEvent(selElement, "OnBlur");
+                                    }
+                                    else
+                                    {
+                                        selElement.value = "";
+                                    }
+                                    FireSelElementEvent(selElement, "OnBlur");
                                      break;
+                                
                                 case "ctl00$ContentPlaceHolder1$ddlQ3_jpengenalan":
+                                   if (dsData .Tables ["P3_SYER"].Rows.Count > 1)
+                                    {
                                      selElement.value = "1";
-                                     FireSelElementEvent(selElement, "OnBlur");
-                                     break;
+                                    }
+                                    else
+                                    {
+                                        selElement.value = "";
+                                    }
+                                    FireSelElementEvent(selElement, "OnBlur");
+                                    break;
+                                
                                 case "ctl00$ContentPlaceHolder1$ddlQ4_jpengenalan":
+                                   if (dsData .Tables ["P3_SYER"].Rows.Count > 1)
+                                    {
                                      selElement.value = "1";
-                                     FireSelElementEvent(selElement, "OnBlur");
+                                    }
+                                    else
+                                    {
+                                        selElement.value = "";
+                                    }
+                                    FireSelElementEvent(selElement, "OnBlur");
                                      break;
+                                
                                 case "ctl00$ContentPlaceHolder1$ddlQ5_jpengenalan":
+                                  if (dsData .Tables ["P3_SYER"].Rows.Count > 1)
+                                    {
                                      selElement.value = "1";
-                                     FireSelElementEvent(selElement, "OnBlur");
+                                    }
+                                    else
+                                    {
+                                        selElement.value = "";
+                                    }
+                                    FireSelElementEvent(selElement, "OnBlur");
                                      break;
+                                
                                 case "ctl00$ContentPlaceHolder1$ddlQ2_Negara":
                                     if (dsData.Tables["P3_SYER"].Rows.Count > 1)
                                     {
