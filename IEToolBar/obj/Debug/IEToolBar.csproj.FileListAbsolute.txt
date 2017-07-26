@@ -117,7 +117,6 @@ C:\Users\Azham\Documents\GitHub\IEToolbar_Access\IEToolBar\bin\Debug\IEToolBar.d
 C:\Users\Azham\Documents\GitHub\IEToolbar_Access\IEToolBar\bin\Debug\IEToolBar.pdb
 C:\Users\Azham\Documents\GitHub\IEToolbar_Access\IEToolBar\bin\Debug\BandObjectsLib.dll
 C:\Users\Azham\Documents\GitHub\IEToolbar_Access\IEToolBar\bin\Debug\Microsoft.mshtml.dll
-C:\Users\Azham\Documents\GitHub\IEToolbar_Access\IEToolBar\obj\Debug\IEToolBar.csprojResolveAssemblyReference.cache
 C:\Users\Azham\Documents\GitHub\IEToolbar_Access\IEToolBar\obj\Debug\IEToolBar.frmEFileAdd.resources
 C:\Users\Azham\Documents\GitHub\IEToolbar_Access\IEToolBar\obj\Debug\IEToolBar.frmTaxAgentLogIn.resources
 C:\Users\Azham\Documents\GitHub\IEToolbar_Access\IEToolBar\obj\Debug\IEToolBar.frmEFileSelect.resources
@@ -132,3 +131,4 @@ C:\Users\Azham\Documents\GitHub\IEToolbar_Access\IEToolBar\obj\Debug\IEToolBar.u
 C:\Users\Azham\Documents\GitHub\IEToolbar_Access\IEToolBar\obj\Debug\IEToolBar.csproj.GenerateResource.Cache
 C:\Users\Azham\Documents\GitHub\IEToolbar_Access\IEToolBar\obj\Debug\IEToolBar.dll
 C:\Users\Azham\Documents\GitHub\IEToolbar_Access\IEToolBar\obj\Debug\IEToolBar.pdb
+C:\Users\Azham\Documents\GitHub\IEToolbar_Access\IEToolBar\obj\Debug\IEToolBar.csprojResolveAssemblyReference.cache

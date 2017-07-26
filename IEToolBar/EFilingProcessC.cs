@@ -2822,7 +2822,7 @@ namespace IEToolBar
                                     }
                                     else
                                     {
-                                        inpElement.value = "";
+                                        inpElement.value = "0";
                                         FireInpElementEvent(inpElement, "OnBlur");
                                     }
                                     break;
@@ -41471,7 +41471,7 @@ namespace IEToolBar
                                         break;
 
                                     case "ctl00$ContentPlaceHolder1$txtJ3":
-                                        inpElement.value = dsData.Tables["P7_PRECEDING_YEAR"].Rows[0].ItemArray[0].ToString();
+                                        inpElement.value = dsData.Tables["P7_PRECEDING_YEAR"].Rows[0]["PY_PRE_YA"].ToString();
                                         FireInpElementEvent(inpElement, "OnBlur");
                                         break;
                                 }
@@ -41524,7 +41524,7 @@ namespace IEToolBar
                                     }
                                     else
                                     {
-                                        inpElement.value = "";
+                                        inpElement.value = "0";
                                         FireInpElementEvent(inpElement, "OnBlur");
                                     }
                                     break;
@@ -44053,6 +44053,10 @@ namespace IEToolBar
                                     break;
                                 case "ctl00$ContentPlaceHolder1$txtP5":
                                     inpElement.value = dsData.Tables["P1_INPUT_TAX_PROFILE"].Rows[0].ItemArray[11].ToString();
+                                    break;
+                                case "ctl00$ContentPlaceHolder1$txtstatuslain":
+
+                                    inpElement.value = dsData.Tables["P1_INPUT_TAX_PROFILE"].Rows[0]["TP_STS_OTHER"].ToString();
                                     break;
                                 case "ctl00$ContentPlaceHolder1$rbsurat":
                                     if (intcount == 0)
@@ -47586,7 +47590,7 @@ namespace IEToolBar
                                         break;
 
                                     case "ctl00$ContentPlaceHolder1$txtJ3":
-                                        inpElement.value = dsData.Tables["P7_PRECEDING_YEAR"].Rows[0].ItemArray[0].ToString();
+                                        inpElement.value = dsData.Tables["P7_PRECEDING_YEAR"].Rows[0]["PY_PRE_YA"].ToString();
                                         FireInpElementEvent(inpElement, "OnBlur");
                                         break;
                                 }
@@ -47627,7 +47631,7 @@ namespace IEToolBar
                                     else
                                     {
                                         //boolNoRecord = true;
-                                        inpElement.value = "";
+                                        inpElement.value = "0";
                                         FireInpElementEvent(inpElement, "OnBlur");
                                     }
                                     break;
@@ -47639,7 +47643,7 @@ namespace IEToolBar
                                     }
                                     else
                                     {
-                                        inpElement.value = "";
+                                        inpElement.value = "0";
                                         FireInpElementEvent(inpElement, "OnBlur");
                                     }
                                     break;
@@ -48520,9 +48524,160 @@ namespace IEToolBar
                             }
                             break;
                         #endregion
+                    
+                        #region "Page 13"
+                        case "C2017Page13":
+
+                            string[] arrAuditor = new string[3];
+                            if (!String.IsNullOrEmpty(dsData.Tables["P18_AUDITOR"].Rows[0].ItemArray[1].ToString()))
+                            {
+                                arrAuditor = TextSpliter(dsData.Tables["P18_AUDITOR"].Rows[0].ItemArray[1].ToString(), 40);
+                            }
+                            switch (inpElement.name)
+                            {
+                                case "ctl00$ContentPlaceHolder1$txtS1":
+                                    if (dsData.Tables["P18_AUDITOR"].Rows.Count > 0)
+                                    {
+                                        inpElement.value = dsData.Tables["P18_AUDITOR"].Rows[0].ItemArray[0].ToString().Replace("'", "");
+                                    }
+                                    else
+                                    {
+                                        inpElement.value = "";
+                                    }
+                                    break;
+                                case "ctl00$ContentPlaceHolder1$txtS2_Alamat1":
+                                    //inpElement.value = dsData.Tables["P18_AUDITOR"].Rows[0].ItemArray[1].ToString();
+                                    if (dsData.Tables["P18_AUDITOR"].Rows.Count > 0)
+                                    {
+                                        inpElement.value = arrAuditor[0];
+                                    }
+                                    else
+                                    {
+                                        inpElement.value = "";
+                                    }
+                                    break;
+                                case "ctl00$ContentPlaceHolder1$txtS2_Alamat2":
+                                    //inpElement.value = "1";
+                                    if (dsData.Tables["P18_AUDITOR"].Rows.Count > 0)
+                                    {
+                                        inpElement.value = arrAuditor[1];
+                                    }
+                                    else
+                                    {
+                                        inpElement.value = "";
+                                    }
+                                    break;
+                                case "ctl00$ContentPlaceHolder1$txtS2_Alamat3":
+                                    //inpElement.value = "1";
+                                    if (dsData.Tables["P18_AUDITOR"].Rows.Count > 0)
+                                    {
+                                        inpElement.value = arrAuditor[2];
+                                    }
+                                    else
+                                    {
+                                        inpElement.value = "";
+                                    }
+                                    break;
+                                case "ctl00$ContentPlaceHolder1$txtS2_Poskod":
+                                    if (dsData.Tables["P18_AUDITOR"].Rows.Count > 0)
+                                    {
+                                        inpElement.value = dsData.Tables["P18_AUDITOR"].Rows[0].ItemArray[2].ToString();
+                                    }
+                                    else
+                                    {
+                                        inpElement.value = "";
+                                    }
+                                    break;
+                                case "ctl00$ContentPlaceHolder1$txtS2_Bandar":
+                                    if (dsData.Tables["P18_AUDITOR"].Rows.Count > 0)
+                                    {
+                                        inpElement.value = dsData.Tables["P18_AUDITOR"].Rows[0].ItemArray[3].ToString();
+                                    }
+                                    else
+                                    {
+                                        inpElement.value = "";
+                                    }
+                                    break;
+                                case "ctl00$ContentPlaceHolder1$txtS3":
+                                    if (dsData.Tables["P18_AUDITOR"].Rows.Count > 0)
+                                    {
+                                        inpElement.value = dsData.Tables["P18_AUDITOR"].Rows[0].ItemArray[5].ToString();
+                                    }
+                                    else
+                                    {
+                                        inpElement.value = "";
+                                    }
+                                    break;
+                            }
+                            //break;
+
+                            string[] arrTaxAgent = new string[3];
+                            arrTaxAgent[0] = dsData.Tables["P19_FIRM"].Rows[0].ItemArray[0].ToString();
+                            arrTaxAgent[1] = dsData.Tables["P19_FIRM"].Rows[0].ItemArray[1].ToString();
+                            arrTaxAgent[2] = dsData.Tables["P19_FIRM"].Rows[0].ItemArray[2].ToString();
+                            arrTaxAgent = TextSpliterAddress(arrTaxAgent, 40);
+                            switch (inpElement.name)
+                            {
+                                //case "ctl00$ContentPlaceHolder1$txtS1":
+                                //    inpElement.value = dsData.Tables["P19_FIRM"].Rows[0].ItemArray[0].ToString();
+                                //    break;
+                                case "ctl00$ContentPlaceHolder1$txtT2_Alamat1":
+                                    //inpElement.value = dsData.Tables["P19_FIRM"].Rows[0].ItemArray[0].ToString();
+                                    if (arrTaxAgent[0] != null)
+                                    {
+                                        inpElement.value = arrTaxAgent[0].ToString();
+                                    }
+                                    else
+                                    {
+                                        inpElement.value = "";
+                                    }
+                                    break;
+                                case "ctl00$ContentPlaceHolder1$txtT2_Alamat2":
+                                    //inpElement.value = dsData.Tables["P19_FIRM"].Rows[0].ItemArray[1].ToString();
+                                    if (arrTaxAgent[1] != null)
+                                    {
+                                        inpElement.value = arrTaxAgent[1].ToString();
+                                    }
+                                    else
+                                    {
+                                        inpElement.value = "";
+                                    }
+                                    break;
+                                case "ctl00$ContentPlaceHolder1$txtT2_Alamat3":
+                                    //inpElement.value = dsData.Tables["P19_FIRM"].Rows[0].ItemArray[2].ToString();
+                                    if (arrTaxAgent[2] != null)
+                                    {
+                                        inpElement.value = arrTaxAgent[2].ToString();
+                                    }
+                                    else
+                                    {
+                                        inpElement.value = "";
+                                    }
+                                    break;
+                                case "ctl00$ContentPlaceHolder1$txtT2_Poskod":
+                                    inpElement.value = dsData.Tables["P19_FIRM"].Rows[0].ItemArray[3].ToString();
+                                    break;
+                                case "ctl00$ContentPlaceHolder1$txtT2_Bandar":
+                                    inpElement.value = dsData.Tables["P19_FIRM"].Rows[0].ItemArray[4].ToString();
+                                    break;
+                                case "ctl00$ContentPlaceHolder1$txtT3":
+                                    inpElement.value = dsData.Tables["P19_FIRM"].Rows[0].ItemArray[6].ToString(); ;
+                                    break;
+                                //case "ctl00$ContentPlaceHolder1$txtT4":
+                                //    inpElement.value = dsData.Tables["P19_FIRM"].Rows[0].ItemArray[7].ToString();
+                                //    break;
+                                case "ctl00$ContentPlaceHolder1$txtT5":
+                                    inpElement.value = dsData.Tables["P19_FIRM"].Rows[0].ItemArray[7].ToString();
+                                    break;
+                                case "ctl00$ContentPlaceHolder1$txtT6":
+                                    inpElement.value = dsData.Tables["P19_FIRM"].Rows[0].ItemArray[8].ToString();
+                                    break;
+                            }
+                            break;
+                        #endregion
 
                         #region "Page 14"
-                        case "C2016Page14":
+                        case "C2017Page14":
                             switch (inpElement.name)
                             {
                                 //case "ctl00$ContentPlaceHolder1$txtMastautin":
@@ -48786,157 +48941,6 @@ namespace IEToolBar
                             break;
                         #endregion
 
-                        #region "Page 13"
-                        case "C2017Page13":
-
-                            string[] arrAuditor = new string[3];
-                            if (!String.IsNullOrEmpty(dsData.Tables["P18_AUDITOR"].Rows[0].ItemArray[1].ToString()))
-                            {
-                                arrAuditor = TextSpliter(dsData.Tables["P18_AUDITOR"].Rows[0].ItemArray[1].ToString(), 40);
-                            }
-                            switch (inpElement.name)
-                            {
-                                case "ctl00$ContentPlaceHolder1$txtS1":
-                                    if (dsData.Tables["P18_AUDITOR"].Rows.Count > 0)
-                                    {
-                                        inpElement.value = dsData.Tables["P18_AUDITOR"].Rows[0].ItemArray[0].ToString().Replace("'", "");
-                                    }
-                                    else
-                                    {
-                                        inpElement.value = "";
-                                    }
-                                    break;
-                                case "ctl00$ContentPlaceHolder1$txtS2_Alamat1":
-                                    //inpElement.value = dsData.Tables["P18_AUDITOR"].Rows[0].ItemArray[1].ToString();
-                                    if (dsData.Tables["P18_AUDITOR"].Rows.Count > 0)
-                                    {
-                                        inpElement.value = arrAuditor[0];
-                                    }
-                                    else
-                                    {
-                                        inpElement.value = "";
-                                    }
-                                    break;
-                                case "ctl00$ContentPlaceHolder1$txtS2_Alamat2":
-                                    //inpElement.value = "1";
-                                    if (dsData.Tables["P18_AUDITOR"].Rows.Count > 0)
-                                    {
-                                        inpElement.value = arrAuditor[1];
-                                    }
-                                    else
-                                    {
-                                        inpElement.value = "";
-                                    }
-                                    break;
-                                case "ctl00$ContentPlaceHolder1$txtS2_Alamat3":
-                                    //inpElement.value = "1";
-                                    if (dsData.Tables["P18_AUDITOR"].Rows.Count > 0)
-                                    {
-                                        inpElement.value = arrAuditor[2];
-                                    }
-                                    else
-                                    {
-                                        inpElement.value = "";
-                                    }
-                                    break;
-                                case "ctl00$ContentPlaceHolder1$txtS2_Poskod":
-                                    if (dsData.Tables["P18_AUDITOR"].Rows.Count > 0)
-                                    {
-                                        inpElement.value = dsData.Tables["P18_AUDITOR"].Rows[0].ItemArray[2].ToString();
-                                    }
-                                    else
-                                    {
-                                        inpElement.value = "";
-                                    }
-                                    break;
-                                case "ctl00$ContentPlaceHolder1$txtS2_Bandar":
-                                    if (dsData.Tables["P18_AUDITOR"].Rows.Count > 0)
-                                    {
-                                        inpElement.value = dsData.Tables["P18_AUDITOR"].Rows[0].ItemArray[3].ToString();
-                                    }
-                                    else
-                                    {
-                                        inpElement.value = "";
-                                    }
-                                    break;
-                                case "ctl00$ContentPlaceHolder1$txtS3":
-                                    if (dsData.Tables["P18_AUDITOR"].Rows.Count > 0)
-                                    {
-                                        inpElement.value = dsData.Tables["P18_AUDITOR"].Rows[0].ItemArray[5].ToString();
-                                    }
-                                    else
-                                    {
-                                        inpElement.value = "";
-                                    }
-                                    break;
-                            }
-                            //break;
-
-                            string[] arrTaxAgent = new string[3];
-                            arrTaxAgent[0] = dsData.Tables["P19_FIRM"].Rows[0].ItemArray[0].ToString();
-                            arrTaxAgent[1] = dsData.Tables["P19_FIRM"].Rows[0].ItemArray[1].ToString();
-                            arrTaxAgent[2] = dsData.Tables["P19_FIRM"].Rows[0].ItemArray[2].ToString();
-                            arrTaxAgent = TextSpliterAddress(arrTaxAgent, 40);
-                            switch (inpElement.name)
-                            {
-                                //case "ctl00$ContentPlaceHolder1$txtS1":
-                                //    inpElement.value = dsData.Tables["P19_FIRM"].Rows[0].ItemArray[0].ToString();
-                                //    break;
-                                case "ctl00$ContentPlaceHolder1$txtT2_Alamat1":
-                                    //inpElement.value = dsData.Tables["P19_FIRM"].Rows[0].ItemArray[0].ToString();
-                                    if (arrTaxAgent[0] != null)
-                                    {
-                                        inpElement.value = arrTaxAgent[0].ToString();
-                                    }
-                                    else
-                                    {
-                                        inpElement.value = "";
-                                    }
-                                    break;
-                                case "ctl00$ContentPlaceHolder1$txtT2_Alamat2":
-                                    //inpElement.value = dsData.Tables["P19_FIRM"].Rows[0].ItemArray[1].ToString();
-                                    if (arrTaxAgent[1] != null)
-                                    {
-                                        inpElement.value = arrTaxAgent[1].ToString();
-                                    }
-                                    else
-                                    {
-                                        inpElement.value = "";
-                                    }
-                                    break;
-                                case "ctl00$ContentPlaceHolder1$txtT2_Alamat3":
-                                    //inpElement.value = dsData.Tables["P19_FIRM"].Rows[0].ItemArray[2].ToString();
-                                    if (arrTaxAgent[2] != null)
-                                    {
-                                        inpElement.value = arrTaxAgent[2].ToString();
-                                    }
-                                    else
-                                    {
-                                        inpElement.value = "";
-                                    }
-                                    break;
-                                case "ctl00$ContentPlaceHolder1$txtT2_Poskod":
-                                    inpElement.value = dsData.Tables["P19_FIRM"].Rows[0].ItemArray[3].ToString();
-                                    break;
-                                case "ctl00$ContentPlaceHolder1$txtT2_Bandar":
-                                    inpElement.value = dsData.Tables["P19_FIRM"].Rows[0].ItemArray[4].ToString();
-                                    break;
-                                case "ctl00$ContentPlaceHolder1$txtT3":
-                                    inpElement.value = dsData.Tables["P19_FIRM"].Rows[0].ItemArray[6].ToString(); ;
-                                    break;
-                                //case "ctl00$ContentPlaceHolder1$txtT4":
-                                //    inpElement.value = dsData.Tables["P19_FIRM"].Rows[0].ItemArray[7].ToString();
-                                //    break;
-                                case "ctl00$ContentPlaceHolder1$txtT5":
-                                    inpElement.value = dsData.Tables["P19_FIRM"].Rows[0].ItemArray[7].ToString();
-                                    break;
-                                case "ctl00$ContentPlaceHolder1$txtT6":
-                                    inpElement.value = dsData.Tables["P19_FIRM"].Rows[0].ItemArray[8].ToString();
-                                    break;
-                            }
-                            break;
-                        #endregion
-
                     }
                 }
                 if (boolNoRecord)
@@ -49116,11 +49120,13 @@ namespace IEToolBar
                                             case "16": selElement.value = "9"; break;
                                             case "5": selElement.value = "4"; break;
                                         }
+                                      
                                     }
                                     else
                                     {
                                         selElement.value = "0";
                                     }
+                                    FireSelElementEvent(selElement, "OnChange");
                                     break;
                                 case "ctl00$ContentPlaceHolder1$ddlP2_Negeri":
                                     selElement.value = SelectState(dsData.Tables["P1_SELECT_TAX_PROFILE"].Rows[0].ItemArray[4].ToString());
@@ -49586,7 +49592,7 @@ namespace IEToolBar
                                 case "ctl00$ContentPlaceHolder1$ddlQ1_Negara":
                                     if (dsData.Tables["P3_SYER"].Rows.Count > 0)
                                     {
-                                        selElement.value = dsData.Tables["P3_SYER"].Rows[0].ItemArray[3].ToString();
+                                        selElement.value = dsData.Tables["P3_SYER"].Rows[0]["SH_COUNTRY"].ToString();
                                         FireSelElementEvent(selElement, "OnBlur");
                                     }
                                     else
@@ -49618,7 +49624,7 @@ namespace IEToolBar
                                 case "ctl00$ContentPlaceHolder1$ddlQ2_Negara":
                                     if (dsData.Tables["P3_SYER"].Rows.Count > 1)
                                     {
-                                        selElement.value = dsData.Tables["P3_SYER"].Rows[1].ItemArray[3].ToString();
+                                        selElement.value = dsData.Tables["P3_SYER"].Rows[1]["SH_COUNTRY"].ToString();
                                         FireSelElementEvent(selElement, "OnBlur");
                                     }
                                     else
@@ -49630,7 +49636,7 @@ namespace IEToolBar
                                 case "ctl00$ContentPlaceHolder1$ddlQ3_Negara":
                                     if (dsData.Tables["P3_SYER"].Rows.Count > 2)
                                     {
-                                        selElement.value = dsData.Tables["P3_SYER"].Rows[2].ItemArray[3].ToString();
+                                        selElement.value = dsData.Tables["P3_SYER"].Rows[2]["SH_COUNTRY"].ToString();
                                         FireSelElementEvent(selElement, "OnBlur");
                                     }
                                     else
@@ -49642,7 +49648,7 @@ namespace IEToolBar
                                 case "ctl00$ContentPlaceHolder1$ddlQ4_Negara":
                                     if (dsData.Tables["P3_SYER"].Rows.Count > 3)
                                     {
-                                        selElement.value = dsData.Tables["P3_SYER"].Rows[3].ItemArray[3].ToString();
+                                        selElement.value = dsData.Tables["P3_SYER"].Rows[3]["SH_COUNTRY"].ToString();
                                         FireSelElementEvent(selElement, "OnBlur");
                                     }
                                     else
@@ -49654,7 +49660,7 @@ namespace IEToolBar
                                 case "ctl00$ContentPlaceHolder1$ddlQ5_Negara":
                                     if (dsData.Tables["P3_SYER"].Rows.Count > 4)
                                     {
-                                        selElement.value = dsData.Tables["P3_SYER"].Rows[4].ItemArray[3].ToString();
+                                        selElement.value = dsData.Tables["P3_SYER"].Rows[4]["SH_COUNTRY"].ToString();
                                         FireSelElementEvent(selElement, "OnBlur");
                                     }
                                     else

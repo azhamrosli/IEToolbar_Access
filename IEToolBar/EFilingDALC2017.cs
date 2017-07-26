@@ -74,7 +74,7 @@ namespace IEToolBar
                         //32 t.TP_ROYALCLAIM, 
                         //33 t.TP_GOODSERVICETAXREGISTRAION,
                         //34 t.TP_BUILDINGINDUSTRY 
-                        strQuery = "select t.tp_com_name,t.tp_ref_no, t.tp_employer_no,t.tp_roc_no,format(t.tp_acc_period_fr,'dd/mm/yyyy'),format(t.tp_acc_period_to,'dd/mm/yyyy'),t.tp_reg_add_line1,t.tp_reg_add_line2,t.tp_reg_add_line3,t.tp_reg_postcode,t.tp_reg_city,t.tp_tel_no,t.tp_curr_add_line1,t.tp_curr_add_line2,t.tp_curr_add_line3,t.tp_curr_postcode,t.tp_curr_city,t.tp_com_add_line1,t.tp_com_add_line2,t.tp_com_add_line3,t.tp_com_postcode,t.tp_com_city,t.tp_bank_acc,t.tp_alt_add_line1,t.tp_alt_add_line2,t.tp_alt_add_line3,t.tp_alt_postcode,t.tp_alt_city,t.tp_blog, TP_COM_STS,TP_CARRYETRANDING, t.TP_SECTION_127_1,t.TP_SECTION_127_2,t.TP_SECTION_127_3, t.TP_ROYALCLAIM, t.TP_GOODSERVICETAXREGISTRAION,t.TP_BUILDINGINDUSTRY " +
+                        strQuery = "select t.tp_com_name,t.tp_ref_no, t.tp_employer_no,t.tp_roc_no,format(t.tp_acc_period_fr,'dd/mm/yyyy'),format(t.tp_acc_period_to,'dd/mm/yyyy'),t.tp_reg_add_line1,t.tp_reg_add_line2,t.tp_reg_add_line3,t.tp_reg_postcode,t.tp_reg_city,t.tp_tel_no,t.tp_curr_add_line1,t.tp_curr_add_line2,t.tp_curr_add_line3,t.tp_curr_postcode,t.tp_curr_city,t.tp_com_add_line1,t.tp_com_add_line2,t.tp_com_add_line3,t.tp_com_postcode,t.tp_com_city,t.tp_bank_acc,t.tp_alt_add_line1,t.tp_alt_add_line2,t.tp_alt_add_line3,t.tp_alt_postcode,t.tp_alt_city,t.tp_blog, TP_COM_STS,TP_CARRYETRANDING, t.TP_SECTION_127_1,t.TP_SECTION_127_2,t.TP_SECTION_127_3, t.TP_ROYALCLAIM, t.TP_GOODSERVICETAXREGISTRAION,t.TP_BUILDINGINDUSTRY,t.TP_STS_OTHER " +
                                    "from taxp_profile t " +
                                    "where tp_ref_no=?";
                         cmdOdbc = new OdbcCommand(strQuery, connOdbc);
@@ -633,7 +633,7 @@ namespace IEToolBar
                         daOdbc.Dispose();
                         cmdOdbc.Dispose();
 
-                        strQuery = "select py_ya, py_income_type, py_income from preceding_year where py_ref_no=? and py_ya=?";
+                        strQuery = "select py_ya, py_income_type, py_income,PY_PRE_YA from preceding_year where py_ref_no=? and py_ya=?";
                         cmdOdbc = new OdbcCommand(strQuery, connOdbc);
                         cmdOdbc.Parameters.Add(new OdbcParameter("@taxpayer", strTaxPayer));
                         cmdOdbc.Parameters.Add(new OdbcParameter("@ya", strYA));

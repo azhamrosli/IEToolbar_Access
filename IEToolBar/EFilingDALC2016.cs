@@ -560,7 +560,7 @@ namespace IEToolBar
                         daOdbc.Dispose();
                         cmdOdbc.Dispose();
 
-                        strQuery = "select py_ya, py_income_type, py_income from preceding_year where py_ref_no=? and py_ya=?";
+                        strQuery = "select py_ya, py_income_type, py_income,PY_PRE_YA from preceding_year where py_ref_no=? and py_ya=?";
                         cmdOdbc = new OdbcCommand(strQuery, connOdbc);
                         cmdOdbc.Parameters.Add(new OdbcParameter("@taxpayer", strTaxPayer));
                         cmdOdbc.Parameters.Add(new OdbcParameter("@ya", strYA));
