@@ -316,9 +316,9 @@ namespace IEToolBar
             this.HowToUseURLtoolStripButton.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.HowToUseURLtoolStripButton.Name = "HowToUseURLtoolStripButton";
             this.HowToUseURLtoolStripButton.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.HowToUseURLtoolStripButton.Size = new System.Drawing.Size(117, 20);
-            this.HowToUseURLtoolStripButton.Text = "Help E-Filing V29";
-            this.HowToUseURLtoolStripButton.ToolTipText = "Help E-Filing V29";
+            this.HowToUseURLtoolStripButton.Size = new System.Drawing.Size(126, 20);
+            this.HowToUseURLtoolStripButton.Text = "Help E-Filing V29.1";
+            this.HowToUseURLtoolStripButton.ToolTipText = "Help E-Filing V29.1";
             this.HowToUseURLtoolStripButton.Click += new System.EventHandler(this.HowToUseURLtoolStripButton_Click);
             // 
             // toolStripSeparator1

@@ -43440,7 +43440,68 @@ namespace IEToolBar
                         case "C2016Page3":
                             switch (selElement.name)
                             {
+                                case "ctl00$ContentPlaceHolder1$ddlQ1_jpengenalan":
+                                    //dsData.Tables["P3_SYER"] //.Rows[0].ItemArray[1].ToString();
 
+                                    if (dsData.Tables["P3_SYER"].Rows.Count > 0)
+                                    {
+                                        selElement.value = "1";
+                                    }
+                                    else
+                                    {
+                                        selElement.value = "";
+                                    }
+                                    FireSelElementEvent(selElement, "OnBlur");
+                                    break;
+
+                                case "ctl00$ContentPlaceHolder1$ddlQ2_jpengenalan":
+
+                                    if (dsData.Tables["P3_SYER"].Rows.Count > 1)
+                                    {
+                                        selElement.value = "1";
+                                    }
+                                    else
+                                    {
+                                        selElement.value = "";
+                                    }
+                                    FireSelElementEvent(selElement, "OnBlur");
+                                    break;
+                                case "ctl00$ContentPlaceHolder1$ddlQ3_jpengenalan":
+                                    if (dsData.Tables["P3_SYER"].Rows.Count > 2)
+                                    {
+                                        selElement.value = "1";
+                                    }
+                                    else
+                                    {
+                                        selElement.value = "";
+                                    }
+                                    FireSelElementEvent(selElement, "OnBlur");
+                                    break;
+
+                                case "ctl00$ContentPlaceHolder1$ddlQ4_jpengenalan":
+                                    if (dsData.Tables["P3_SYER"].Rows.Count > 3)
+                                    {
+                                        selElement.value = "1";
+                                    }
+                                    else
+                                    {
+                                        selElement.value = "";
+                                    }
+                                    FireSelElementEvent(selElement, "OnBlur");
+                                    break;
+
+                                case "ctl00$ContentPlaceHolder1$ddlQ5_jpengenalan":
+                                    if (dsData.Tables["P3_SYER"].Rows.Count > 4)
+                                    {
+                                        selElement.value = "1";
+                                    }
+                                    else
+                                    {
+                                        selElement.value = "";
+                                    }
+                                    FireSelElementEvent(selElement, "OnBlur");
+                                    break;
+                                
                                 case "ctl00$ContentPlaceHolder1$ddlQ_Status":
 
                                     if (dsData.Tables["P3_CONTROL_COMPANY"].Rows.Count > 0)
@@ -43457,7 +43518,7 @@ namespace IEToolBar
                                 case "ctl00$ContentPlaceHolder1$ddlQ1_Negara":
                                     if (dsData.Tables["P3_SYER"].Rows.Count > 0)
                                     {
-                                        selElement.value = dsData.Tables["P3_SYER"].Rows[0].ItemArray[3].ToString();
+                                        selElement.value = dsData.Tables["P3_SYER"].Rows[0]["SH_COUNTRY"].ToString();
                                         FireSelElementEvent(selElement, "OnBlur");
                                     }
                                     else
@@ -43469,7 +43530,7 @@ namespace IEToolBar
                                 case "ctl00$ContentPlaceHolder1$ddlQ2_Negara":
                                     if (dsData.Tables["P3_SYER"].Rows.Count > 1)
                                     {
-                                        selElement.value = dsData.Tables["P3_SYER"].Rows[1].ItemArray[3].ToString();
+                                        selElement.value = dsData.Tables["P3_SYER"].Rows[1]["SH_COUNTRY"].ToString();
                                         FireSelElementEvent(selElement, "OnBlur");
                                     }
                                     else
@@ -43481,7 +43542,7 @@ namespace IEToolBar
                                 case "ctl00$ContentPlaceHolder1$ddlQ3_Negara":
                                     if (dsData.Tables["P3_SYER"].Rows.Count > 2)
                                     {
-                                        selElement.value = dsData.Tables["P3_SYER"].Rows[2].ItemArray[3].ToString();
+                                        selElement.value = dsData.Tables["P3_SYER"].Rows[2]["SH_COUNTRY"].ToString();
                                         FireSelElementEvent(selElement, "OnBlur");
                                     }
                                     else
@@ -43493,7 +43554,7 @@ namespace IEToolBar
                                 case "ctl00$ContentPlaceHolder1$ddlQ4_Negara":
                                     if (dsData.Tables["P3_SYER"].Rows.Count > 3)
                                     {
-                                        selElement.value = dsData.Tables["P3_SYER"].Rows[3].ItemArray[3].ToString();
+                                        selElement.value = dsData.Tables["P3_SYER"].Rows[3]["SH_COUNTRY"].ToString();
                                         FireSelElementEvent(selElement, "OnBlur");
                                     }
                                     else
@@ -43505,7 +43566,7 @@ namespace IEToolBar
                                 case "ctl00$ContentPlaceHolder1$ddlQ5_Negara":
                                     if (dsData.Tables["P3_SYER"].Rows.Count > 4)
                                     {
-                                        selElement.value = dsData.Tables["P3_SYER"].Rows[4].ItemArray[3].ToString();
+                                        selElement.value = dsData.Tables["P3_SYER"].Rows[4]["SH_COUNTRY"].ToString();
                                         FireSelElementEvent(selElement, "OnBlur");
                                     }
                                     else
@@ -43584,7 +43645,7 @@ namespace IEToolBar
                                     {
                                        // selElement.value = dsData.Tables["P3_SYER"].Rows[0].ItemArray[7].ToString();
                                         DateTime dtBirthDate = Convert.ToDateTime(dsData.Tables["P3_SYER"].Rows[0]["SH_DATE_OF_BIRTH"].ToString());
-                                       selElement.value = dtBirthDate.ToString("mm");
+                                       selElement.value = dtBirthDate.ToString("MM");
                                     }
                                     else
                                     {
@@ -43596,7 +43657,7 @@ namespace IEToolBar
                                     {
                                         //selElement.value = dsData.Tables["P3_SYER"].Rows[1].ItemArray[7].ToString();
                                         DateTime dtBirthDate = Convert.ToDateTime(dsData.Tables["P3_SYER"].Rows[1]["SH_DATE_OF_BIRTH"].ToString());
-                                        selElement.value = dtBirthDate.ToString("mm");
+                                        selElement.value = dtBirthDate.ToString("MM");
                                     }
                                     else
                                     {
@@ -43608,7 +43669,7 @@ namespace IEToolBar
                                     {
                                         //selElement.value = dsData.Tables["P3_SYER"].Rows[2].ItemArray[7].ToString();
                                        DateTime dtBirthDate = Convert.ToDateTime(dsData.Tables["P3_SYER"].Rows[2]["SH_DATE_OF_BIRTH"].ToString());
-                                        selElement.value = dtBirthDate.ToString("mm");
+                                        selElement.value = dtBirthDate.ToString("MM");
                                     }
                                     else
                                     {
@@ -43620,7 +43681,7 @@ namespace IEToolBar
                                     {
                                         //selElement.value = dsData.Tables["P3_SYER"].Rows[3].ItemArray[7].ToString();
                                         DateTime dtBirthDate = Convert.ToDateTime(dsData.Tables["P3_SYER"].Rows[3]["SH_DATE_OF_BIRTH"].ToString());
-                                        selElement.value = dtBirthDate.ToString("mm");
+                                        selElement.value = dtBirthDate.ToString("MM");
                                     }
                                     else
                                     {
@@ -43632,7 +43693,7 @@ namespace IEToolBar
                                     {
                                        // selElement.value = dsData.Tables["P3_SYER"].Rows[4].ItemArray[7].ToString();
                                         DateTime dtBirthDate = Convert.ToDateTime(dsData.Tables["P3_SYER"].Rows[4]["SH_DATE_OF_BIRTH"].ToString());
-                                        selElement.value = dtBirthDate.ToString("mm");
+                                        selElement.value = dtBirthDate.ToString("MM");
                                     }
                                     else
                                     {
@@ -43642,6 +43703,7 @@ namespace IEToolBar
                                 //azham 27/06/2016 == tarikh lahir
                             }
                             break;
+
                         #endregion
 
                         #region "Page 8"
@@ -49610,7 +49672,7 @@ namespace IEToolBar
 
                                     //dsData.Tables["P3_SYER"] //.Rows[0].ItemArray[1].ToString();
 
-                                    if (dsData .Tables ["P3_SYER"].Rows.Count > 1)
+                                    if (dsData .Tables ["P3_SYER"].Rows.Count > 0)
                                     {
                                      selElement.value = "1";
                                     }
@@ -49634,7 +49696,7 @@ namespace IEToolBar
                                      break;
                                 
                                 case "ctl00$ContentPlaceHolder1$ddlQ3_jpengenalan":
-                                   if (dsData .Tables ["P3_SYER"].Rows.Count > 1)
+                                   if (dsData .Tables ["P3_SYER"].Rows.Count > 2)
                                     {
                                      selElement.value = "1";
                                     }
@@ -49646,7 +49708,7 @@ namespace IEToolBar
                                     break;
                                 
                                 case "ctl00$ContentPlaceHolder1$ddlQ4_jpengenalan":
-                                   if (dsData .Tables ["P3_SYER"].Rows.Count > 1)
+                                   if (dsData .Tables ["P3_SYER"].Rows.Count > 3)
                                     {
                                      selElement.value = "1";
                                     }
@@ -49658,7 +49720,7 @@ namespace IEToolBar
                                      break;
                                 
                                 case "ctl00$ContentPlaceHolder1$ddlQ5_jpengenalan":
-                                  if (dsData .Tables ["P3_SYER"].Rows.Count > 1)
+                                  if (dsData .Tables ["P3_SYER"].Rows.Count > 4)
                                     {
                                      selElement.value = "1";
                                     }
